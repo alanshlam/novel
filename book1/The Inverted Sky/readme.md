@@ -61,7 +61,7 @@ She turned and walked away, melting back into the shadows from which she had eme
 
 In the silence that followed, Sean let out a breath he didn't realize he'd been holding. He didn't know her name, but he knew he owed her his life, and the lives of his students. In the depths of his heart, a silent "thank you" was offered to the enemy who had shown him mercy. With a newfound resolve, he gathered his students, and together, they navigated the treacherous path back to their own lines, the memory of the mysterious diplomat burned into his mind.
 
-<img src="../image/chaper1-2.png" width="300">
+<img src="../image/chapter1.jpg" width="300">
 
 ---
 
