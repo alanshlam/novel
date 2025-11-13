@@ -1,5 +1,5 @@
 
-# 逆轉蒼穹
+# 逆轉蒼穹 翻譯自 [The Inverted Sky](../The%20Inverted%20Sky)
 
 ## 主要人物
 
