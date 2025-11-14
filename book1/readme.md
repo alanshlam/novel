@@ -7,7 +7,7 @@ Trapped behind enemy lines, Air Force cadet Sean Walker expects a bullet, not me
 A routine patrol turns into a race against time when newly-commissioned pilot Sean Walker discovers the diplomat who once saved him is now flying into a death trap. With radio silence enforced and enemy guns on him, his only way to warn her is to risk everything in a breathtaking maneuver that will either save her life or kill them both.
 
 --- 
-# [逆轉蒼穹](/逆轉蒼穹) 翻譯自 [The Inverted Sky](/The%20Inverted%20Sky)
+# [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## 第一章引言 (Introduction for Chapter 1)
 身陷敵陣，空軍官校生尚恩·沃克等待的本該是子彈，而非憐憫。當他與一名孤身的敵方外交官正面相遇，他願以自己的生命換取學生們的存活。然而，她的決定將粉碎他對戰爭的認知，並點燃一段跨越忠誠的連結。
 
