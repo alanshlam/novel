@@ -73,7 +73,7 @@ Following protocol, Sean located the craft, a sleek private transport half-hidde
 
 The sight of her—the woman who had saved him and his students—sent a jolt through him. His duty was clear, but the memory of her quiet act of mercy was clearer. His subconscious didn't just suggest a course of action; it screamed it. He killed the uplink to headquarters. For now, this was his secret. He would follow her, a ghost in the sky, and understand her purpose.
 
-His surveillance revealed a desperate, suicidal flight plan. Ruby's transport was heading for the "Dead Man's Corridor," a narrow passage infamous for its overlapping fields of anti-air batteries. Without a valid, friendly authorization code, her plane would be shredded by automated defenses long before it reached the border.
+His surveillance revealed a desperate, suicidal flight plan. Ruby's transport was heading for the "Dead Man's Corridor", a narrow passage infamous for its overlapping fields of anti-air batteries. Without a valid, friendly authorization code, her plane would be shredded by automated defenses long before it reached the border.
 
 There was no time. Under the blanket of total radio silence enforced in the zone, he had no way to warn her. No way but one.
 
@@ -95,6 +95,6 @@ Then came the maneuver—a feat of impossible airmanship. He inverted his fighte
 
 For a breathtaking moment, as their planes flew in perfect, terrifying unison, they locked eyes through their respective canopies. He saw the fear and astonishment on her face, but also a profound, silent gratitude. She saw the raw concentration and determination etched on his.
 
-Finally, they cleared the corridor. The last threat icon vanished from his screen. He peeled away, his jet rolling upright as he broke the formation. Ruby's transport was safe, a clean vector to the border. As her plane sped away, she pressed a hand to the cold glass of the window, her heart aching with a silent thank you, and a question that would haunt her: in a world without war, who could they have been to each other?
+Finally, they left the "Dead Man's Corridor". The last threat icon vanished from his screen. He peeled away, his jet rolling upright as he broke the formation. Ruby's transport was safe, a clean vector to the border. As her plane sped away, she pressed a hand to the cold glass of the window, her heart aching with a silent thank you, and a question that would haunt her: in a world without war, who could they have been to each other?
 
 <img src="../image/chapter2.png" width="300"> [sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
