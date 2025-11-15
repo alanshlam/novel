@@ -2,9 +2,8 @@
 
 ## Main Characters
 
-### Ruby Vance
-
-**Archetype:** The Idealist in a Cynical World
+### Ruby Vance 
+<img src=../image/ruby.png width="100"> **Archetype:** The Idealist in a Cynical World
 
 Born into a dynasty of diplomats, Ruby was groomed from birth to navigate the intricate dance of international politics.
  On the surface, she is the perfect envoy: impeccably educated, fiercely intelligent, and possessing a tough, analytical
@@ -20,8 +19,7 @@ d her sheer force of will—to mitigate damage and protect lives, all while wres
 ion demands.
 
 ### Sean Walker
-
-**Archetype:** The Survivor with a Conscience
+<img src=../image/sean.png width="100"> **Archetype:** The Survivor with a Conscience
 
 Sean is a product of the harsh realities of his world. Sent to a military academy at a young age not for glory but for s
 urvival, he learned early on that institutions are often corrupt and that authority is not to be trusted. His intelligen
