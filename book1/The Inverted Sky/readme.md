@@ -86,6 +86,6 @@ Finally, they left the "Dead Man's Corridor". The last threat icon vanished from
 
 ---
 
-## Chapter 3: Loot
+## Chapter 3: Looting
 
 Coming soon ....
