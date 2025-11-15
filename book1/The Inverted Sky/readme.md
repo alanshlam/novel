@@ -59,7 +59,10 @@ She turned and walked away, melting back into the shadows from which she had eme
 
 In the silence that followed, Sean let out a breath he didn't realize he'd been holding. He didn't know her name, but he knew he owed her his life, and the lives of his students. In the depths of his heart, a silent "thank you" was offered to the enemy who had shown him mercy. With a newfound resolve, he gathered his students, and together, they navigated the treacherous path back to their own lines, the memory of the mysterious diplomat burned into his mind.
 
-<img src="../image/chapter1.jpg" width="300"> [sample vidoe](https://youtube.com/shorts/jxhw0d7C8PU)
+
+<img src="../image/chapter1.jpg" width="300">
+
+***Tell your students to find another career, this meaningless war isn't worth the price of their lives!*** [sample vidoe](https://youtube.com/shorts/jxhw0d7C8PU)
 
 ---
 
@@ -95,4 +98,6 @@ For a breathtaking moment, as their planes flew in perfect, terrifying unison, t
 
 Finally, they left the "Dead Man's Corridor". The last threat icon vanished from his screen. He peeled away, his jet rolling upright as he broke the formation. Ruby's transport was safe, a clean vector to the border. As her plane sped away, she pressed a hand to the cold glass of the window, her heart aching with a silent thank you, and a question that would haunt her: in a world without war, who could they have been to each other?
 
-<img src="../image/chapter2.png" width="300"> [sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
+<img src="../image/chapter2.png" width="300"> 
+
+***Do not fire!" she commanded her crew. "Let him approach."***[sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
