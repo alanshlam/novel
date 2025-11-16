@@ -2,7 +2,7 @@
 
 ## Main Characters
 
-### Ruby Vance (The Meridian Federation)
+### Ruby Vance (The Meridian Federation <img src=../image/mf_flag.png width="40"> )
 
 <img src=../image/ruby.png width="100"> **Archetype:** The Idealist in a Cynical World
 
@@ -10,7 +10,7 @@ Born into a dynasty of diplomats, Ruby was groomed from birth to navigate the in
 
 Beneath this polished exterior, however, lies a deep-seated conflict. She sees the fervent patriotism preached by her leaders for what it is—a convenient shelter for greed and ambition. This has caused her to grow weary of her own country's relentless warmongering, leaving her caught between a nominal duty to her nation and the urgent pull of her conscience. This has fostered a profound, well-guarded empathy for the people caught in the crossfire of conflicts she is sent to manage. While her influence is limited, she skillfully uses every tool at her disposal—her intellect, her family name, and her sheer force of will—to mitigate damage and protect lives, all while wrestling with the moral compromises her position demands.
 
-### Sean Walker (The Caspian Combine)
+### Sean Walker (The Caspian Combine <img src=../image/cc_flag.png width="40">)
 <img src=../image/sean.png width="100"> **Archetype:** The Survivor with a Conscience
 
 Sean is a product of the harsh realities of his world. Sent to a military academy at a young age not for glory but for survival, he learned early on that institutions are often corrupt and that authority is not to be trusted. His intelligence is not academic but adaptive and razor-sharp, honed by years of observing and navigating the "dirty politics" and injustices of a system designed to break men like him.
