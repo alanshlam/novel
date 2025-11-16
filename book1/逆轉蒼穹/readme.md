@@ -3,7 +3,7 @@
 
 ## 主要人物
 
-### 露比·萬斯 (Ruby Vance) - 子午線聯邦 (The Meridian Federation)
+### 露比·萬斯 (Ruby Vance) - 子午線聯邦 (The Meridian Federation  <img src=../image/mf_flag.png width="40">)
 
 <img src=../image/ruby.png width="100">  **原型：** 犬儒世界中的理想主義者
 
@@ -18,7 +18,7 @@
 
 
 
-### 尚恩·沃克 (Sean Walker) - 裏海共同體 (The Caspian Combine)
+### 尚恩·沃克 (Sean Walker) - 裏海共同體 (The Caspian Combine  <img src=../image/cc_flag.png width="40">)
 
 <img src=../image/sean.png width="100">  **原型：** 有良知的倖存者
 
