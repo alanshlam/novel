@@ -84,7 +84,52 @@ Finally, they left the "Dead Man's Corridor". The last threat icon vanished from
 ***Do not fire!" she commanded her crew. "Let him approach."***[sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
 
 ---
+# Chapter 3: The Devil's Bargain
 
-## Chapter 3: Looting
+Upon her return to the Meridian Federation's capital, Ruby stood before the Ministry of State's debriefing council. The room was sterile, the faces of the officials impassive. When they asked
+about the unidentified fighter that had shadowed her through the Dead Man's Corridor, she delivered the lie she had rehearsed a hundred times.
+
+"The pilot signaled his intent to defect," she stated, her voice a mask of calm professionalism. "He escorted us to the border, but lost his nerve at the last moment and turned back." The lie
+tasted like ash, but it was the only shield she could offer the man who had saved her life.
+
+The council moved on. The true purpose of her mission had been to assess the viability of an alliance with a brutal warlord faction known as the Scourge of Kassian, who were fighting to overth
+row the Caspian Combine's government. In her report, Ruby was unequivocal. She detailed the Scourge's atrocities—massacres, human trafficking, genocide—with cold, factual precision. Her offici
+al recommendation was stark: "Alliance with this group is fundamentally against the strategic and moral interests of the Meridian Federation. They are not liberators; they are bandits and war
+criminals."
+
+A week later, she was summoned to the office of Undersecretary Thorne. He didn't ask her to sit.
+
+"Your report was... thorough," Thorne began, his voice smooth as polished stone. "However, the Ministry has decided to proceed with the alliance." He slid a data slate across his desk. "Intell
+igence confirms the Scourge has deeply infiltrated the Combine's command structure. Their chances of success are high."
+
+Ruby stared at him, incredulous. "Sir, their 'command structure' is a network of thugs. Did you read the addendum on their human rights record?"
+
+"I did," Thorne said, his eyes cold. "And you will now prepare the necessary materials to sanitize it. Press releases, a Q&A for the conference, the presentation for the Senate hearing, and th
+e official line for the media. The hearing is next week. The Senate's endorsement is a formality, after which we will begin funneling weapons and funds. You have one week."
+
+The room tilted. The air grew thin. During her mission, she had seen what the Scourge did to their enemies. She had walked through a village where every man, woman, and child had been slaughte
+red to make an example. She had heard the stories of their rape gangs. "How?" she whispered, the question hanging in the air. "How can our government help those... monsters... get into power?"
+
+"That is not your concern," Thorne replied, his tone final. "Your concern is the narrative. Your claim that their infiltration is a bluff has been noted and dismissed. This is the final decisi
+on."
+
+For two days, Ruby sat in her office, the blank screen of the press release mocking her. Every time she tried to write a sentence—*A new era of partnership... A courageous step towards freedom
+...*—her mind was flooded with the faces of the Scourge's victims. The words choked her.
+
+Then the whispers began. They slithered through the Ministry's halls, dripping with ambition. *Ruby Vance is cracking under the pressure. She's unfit for the job. She's about to be replaced.*
+She knew the sharks were circling, colleagues who coveted her position and would gladly write the lies she could not. The pressure was a physical weight, a crushing force on her chest that mad
+e it hard to breathe.
+
+Late one night, alone in the silent expanse of her office, she saw her reflection in the dark window overlooking the city lights. She looked tired. Defeated. She raised a hand, touching the co
+ld glass as if to steady the trembling image staring back at her.
+
+"Will I become a monster," she whispered to her reflection, "to help another monster harm the innocent?"
+
+She blinked, and a single, hot tear broke free, tracing a path down her cheek. It was not a tear of sadness, but of terrifying clarity. The system wasn't asking for her expertise. It was deman
+ding her soul.
+
+
+
+## Chapter 4: Looting
 
 Coming soon ....
