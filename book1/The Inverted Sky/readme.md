@@ -138,7 +138,7 @@ That evening, Ruby boarded a transport to Cygnus, a neutral nation famous for it
 
 She checked into a hotel under a fake name and a forged ID. In the political neutrality of Cygnus, communication with the Caspian Combine was unrestricted. She navigated to a propaganda forum for the Combine's air force, a place filled with jingoistic pilots and fans. Using an attractive profile picture and a new persona, she began to fish. After a few posts asking innocent, fawning questions, she set the hook. In a public thread, she asked: "Hypothetical question for the pilots here: why would anyone use Morse code in a heavy air defense area during an emergency?"
 
-The question, specific and odd, was just enough. Soon, a private message appeared in her inbox. It was from Sean. His first thought was: *Is this a trap?* But the fear that Ruby might be in danger overrode his caution.
+The question, specific and odd, was just enough. Soon, a private message appeared in her inbox for a private chat. It was from Sean. His first thought was: *Is this a trap?* But the fear that Ruby might be in danger overrode his caution.
 
 **Sean:** In an emergency, you use a designated distress frequency. Morse code is obsolete.
 
