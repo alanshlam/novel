@@ -114,10 +114,10 @@ Late one night, alone in the silent expanse of her office, she saw her reflectio
 
 She blinked, and a single, hot tear broke free, tracing a path down her cheek. It was not a tear of sadness, but of terrifying clarity. The system wasn't asking for her expertise. It was demanding her soul.
 
-[<img src="../image/chapter3.png" width="300">](https://youtube.com/shorts/VInNZbgIdL4)
+[<img src="../image/chapter3.png" width="300">](https://youtube.com/shorts/XLicumz4jJ8)
 
 ***"Will I become a monster," she whispered to her reflection, "to help another monster harm the innocent?"***
-[Sample video](https://youtube.com/shorts/VInNZbgIdL4)
+[Sample video](https://youtube.com/shorts/XLicumz4jJ8)
 
 ---
 # Chapter 4: The Gambit
