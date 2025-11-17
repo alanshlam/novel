@@ -154,7 +154,7 @@ The question, specific and odd, was just enough. Soon, a private message appeare
 
 **Sean:** ...
 
-**Ruby:** In the Blue Lake district?
+**Ruby:** In the Blue Lake district.
 
 A thrill of cold electricity shot down Sean's spine. It was her.
 
