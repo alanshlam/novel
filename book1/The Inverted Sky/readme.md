@@ -146,7 +146,11 @@ The question, specific and odd, was just enough. Soon, a private message appeare
 
 **Sean:** ...What plane?
 
-**Ruby:** A TF35 transport.
+**Ruby:** ...
+
+**Sean:** A TF35 transport?
+
+**Ruby:** ...
 
 **Sean:** ...From the Meridian Federation?
 
