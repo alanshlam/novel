@@ -120,6 +120,76 @@ She blinked, and a single, hot tear broke free, tracing a path down her cheek. I
 [Sample video](https://youtube.com/shorts/VInNZbgIdL4)
 
 ---
-## Chapter 4: Looting
+# Chapter 4: The Gambit
+
+Ruby did not sleep. She remained in her office, a ghost in the silent ministry as the city slept. When the morning light streamed in and her colleagues returned, a cold resolve had settled over her. She would give Thorne exactly what he wanted.
+
+She became a whirlwind of chilling efficiency. She drafted the press conference materials, transforming the Scourge of Kassian from butchers into valiant freedom fighters. She called key senators, using her political acumen to probe their positions and tailor the hearing presentation to their vanities and fears. She worked around the clock, her fingers flying across the console.
+
+By Friday, it was done. She placed a data slate on Undersecretary Thorne’s desk. It was a masterpiece of propaganda: a flawless press release portraying the warlord as a saviour, a hearing presentation arguing the alliance as a moral imperative, and a powerful speech for the Minister of State justifying the flow of weapons as an act of justice.
+
+Thorne was visibly impressed. "Exceptional work, Vance. I knew you had it in you."
+
+"Thank you, sir," Ruby said, her voice carefully modulated to sound weary. "The assignment was draining. I'd like to request a short leave for the weekend. A trip to the Republic of Cygnus for some refreshment. I'll be back Monday to see this through."
+
+"Granted," Thorne said, pleased with his subordinate's apparent dedication. "You've earned it."
+
+That evening, Ruby boarded a transport to Cygnus, a neutral nation famous for its luxurious resorts. She carried only a small bag, but inside it was an encrypted data scrambler—a piece of contraband tech that was her only hope.
+
+She checked into a hotel under a fake name and a forged ID. In the political neutrality of Cygnus, communication with the Caspian Combine was unrestricted. She navigated to a propaganda forum for the Combine's air force, a place filled with jingoistic pilots and fans. Using an attractive profile picture and a new persona, she began to fish. After a few posts asking innocent, fawning questions, she set the hook. In a public thread, she asked: "Hypothetical question for the pilots here: why would anyone use Morse code in a heavy air defense area during an emergency?"
+
+The question, specific and odd, was just enough. Soon, a private message appeared in her inbox. It was from Sean. His first thought was: *Is this a trap?* But the fear that Ruby might be in danger overrode his caution.
+
+**Sean:** In an emergency, you use a designated distress frequency. Morse code is obsolete.
+
+**Ruby:** What if the goal wasn't to call for help, but to appear as a single radar signature? By, for example, flying inverted directly above another plane?
+
+**Sean:** ...What plane?
+
+**Ruby:** A TF35 transport.
+
+**Sean:** ...From the Meridian Federation?
+
+**Ruby:** Do you still remember my advice?
+
+**Sean:** ...
+
+**Ruby:** In the Blue Lake district?
+
+A thrill of cold electricity shot down Sean's spine. It was her.
+
+**Ruby:** Follow this link. The password is the first two words of my advice. All lowercase, no spaces.
+
+Sean immediately terminated the chat, his heart pounding. He switched to a secure terminal, routing his connection through a dozen anonymizing proxies before accessing the dark web link. He entered the password: `findanother`. The chat window opened.
+
+**Sean:** I remember proposing to surrender in the ruins of the city hall. Are you in danger?
+
+**Ruby:** No. But your nation is. I am sending you a package. First-hand, unedited intelligence. Images, videos. My private collection, shared with no one. You will leak it—anonymously—to an anti-government news outlet in my country called The Clarion. The leak must appear to come from a mole within the Scourge itself. Once you see the files, you'll understand.
+
+**Sean:** What are the risks?
+
+**Ruby:** For you? If caught, you're a whistleblower, a national hero. For me, it's treason. I'm trusting you not to disclose the source. Proceed with care.
+
+Sean downloaded the files. The raw, brutal truth of the Scourge's atrocities flooded his screen. The rumors were true. He felt a surge of cold fury, followed by a wave of profound admiration for the woman on the other side of the screen.
+
+**Sean:** I'll make it look like it came from the warlord's inner circle. How do I contact you again?
+
+**Ruby:** The less we communicate, the safer we are. I will find you if needed. You can track my status through official Federation media... if I'm still there. Take care. Ruby Vance, out.
+
+*Ruby Vance.* The name hit him like a physical blow. He knew of the Vance dynasty. He never imagined it could produce someone like her.
+
+On Monday, Ruby was back at her desk, a model of professionalism. She pretended to be busy preparing contingency plans for the hearing, while her heart hammered against her ribs in anxious anticipation. On Tuesday morning, The Clarion broke the story. The headline was explosive: "FEDERATION'S NEW ALLIES: HEROES OR BUTCHERS?"
+
+The story went viral. The unedited images and videos were undeniable, sparking international outrage. Ruby, feigning crisis-management mode, presented her "contingency plan" to Thorne. "The leak appears to be internal to the Scourge," she said with professional gravity. "The data corresponds to intel one of their lieutenants would possess. Our cover-up attempts are only making it worse."
+
+By evening, public opinion had turned into a landslide of condemnation. Under immense pressure, the Ministry of State officially suspended the alliance and cancelled the hearing. Ruby allowed a flicker of disappointment to cross her face in front of Thorne, but inside, she felt the purest, most profound relief of her life.
+
+Days later, Sean tried the dark web link again. It was dead. The forum account was deleted. He scanned the Federation news, but couldn't find any mention of Ruby. When he hacked into the Ministry's public directory, her name was still there, a small but significant relief. Follow-up reports on The Clarion detailed the aftermath: the leak had exposed the Scourge's key positions, forcing them into a full retreat and allowing for the rescue of hundreds of captives. Ruby's brave act had saved thousands of lives.
+
+*Ruby Vance.* The name was now etched in his mind. Her bravery and unwavering determination to uphold her conscience in the face of treason deeply impressed his heart. He looked out at the sky, wondering what the world could be if more people in power were like her—willing to risk everything for what was right.
+
+
+---
+## Chapter 5: Looting
 
 Coming soon ....
