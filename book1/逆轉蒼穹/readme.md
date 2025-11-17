@@ -210,8 +210,7 @@
 
 [<img src="../image/ch4.png" width="300">](https://youtube.com/shorts/B7sg6tHxUpA)
 
-***我們溝通得越少，就越安全。如果需要，我會像這次一樣找到你。你可以透過聯邦官方媒體追踪我的狀況……如果我還在的話。保重。露比·萬斯，通訊結束。***  
-[示範影片](https://youtube.com/shorts/B7sg6tHxUpA)
+***我們溝通得越少，就越安全。如果需要，我會像這次一樣找到你。你可以透過聯邦官方媒體追踪我的狀況……如果我還在的話。保重。露比·萬斯，通訊結束。***   [示範影片](https://youtube.com/shorts/B7sg6tHxUpA)
 
 
 ---
