@@ -22,7 +22,7 @@ He carries himself with a lean, watchful intensity, his eyes holding the weary l
 
 A thousand years from now, the world had forgotten peace. For a decade, nations bled under the iron fist of perpetual war, their conflicts fueled by the insatiable hunger for resources and the toxic pride of global dominance. In this broken world, Sean, a young man forged in poverty, was on the cusp of graduating from the air force academy. His final test was not in the cockpit of a fighter jet, but on the ground, as a mentor leading a group of junior students on a field training exercise.
 
-Their return home was a descent into chaos. An unexpected Meridian Federation offensive had swallowed the land, turning their path into a war zone. Now, they were rats in a maze of rubble, hiding in the shell of a shattered building, the enemy's pursuit a constant, looming threat.
+Their return home was a descent into chaos. An unexpected Meridian Federation offensive had swallowed the land, turning their path into a war zone. Now, they were rats in a maze of rubble, hiding in the shell of a shattered building in the Blue Lake district, the enemy's pursuit a constant, looming threat.
 
 Ruby, a diplomat from the Meridian Federation, was also a prisoner of this sudden violence. Born to wealth and privilege, she was on her way home from a diplomatic mission aimed at forging fragile alliances. An armed, professional escort team was her shield, but in the maelstrom of the offensive, the shield had broken. Separated from her protectors, she stumbled into the same ruined building where Sean and his students were hiding.
 
