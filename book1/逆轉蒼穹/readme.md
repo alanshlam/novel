@@ -316,7 +316,7 @@
 [sample demo](https://youtube.com/shorts/Ws0BLONho1I)
 
 ---
-## 第五章：核戰迷霧
+## 第六章：核戰迷霧
 
 即將推出
 
