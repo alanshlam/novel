@@ -290,4 +290,9 @@ The horrifying realization hit him like a physical blow. This wasn't just Voss's
 
 One of the young privates with him, his face pale with terror, looked at Sean. "Sir? What do we do now?"
 
-<img src="../image/ch5.png" width="300">
+
+[<img src="../image/ch5.png" width="300">](https://youtube.com/shorts/-5g2S5slVb4)
+
+***"Is this our mission?" Sean finally roared, his patience shattering. "To loot the people we were sent to save?"
+Voss finally looked up, his face a sneer of contempt. "Shut up, Lieutenant. Or you won't get a damn share."*** 
+[sample demo](https://youtube.com/shorts/-5g2S5slVb4)
