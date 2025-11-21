@@ -11,6 +11,9 @@ Forced to promote a monstrous alliance, diplomat Ruby Vance descends into a cris
 ## Introduction for [Chapter 4:The Gambit](./The%20Inverted%20Sky#chapter-4-the-gambit)
 To stop her own government from backing a genocidal warlord, Ruby Vance must orchestrate a dangerous leak, placing her trust and her life in the hands of an enemy pilot she has only met once. In a high-stakes gambit, she risks treason to expose a conspiracy. From a neutral nation, she initiates a clandestine digital rendezvous with Sean Walker, entrusting him with explosive intelligence that could topple her government's plans but cost her everything.
 
+## Introduction for [Chapter 5:Looting](./The%20Inverted%20Sky#chapter-5-Looting)
+A year into a brutal war he was never meant to fight on the ground, Sean Walker is reassigned to the front lines in the besieged Republic of Erden. There, he must confront the incompetence of his own command and the desperate faith of the local population. But when a sudden, horrific escalation changes the battle field forever, Sean is forced to witness the true, predatory nature of his allies, leaving him abandoned and fighting for his life against two enemies at once.
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
