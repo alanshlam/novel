@@ -290,3 +290,4 @@ The horrifying realization hit him like a physical blow. This wasn't just Voss's
 
 One of the young privates with him, his face pale with terror, looked at Sean. "Sir? What do we do now?"
 
+<img src="../image/ch5.png" width="300">
