@@ -200,4 +200,93 @@ Days later, Sean tried the dark web link again. It was dead. The forum account w
 ---
 ## Chapter 5: Looting
 
-Coming soon ....
+President-Marshal Corvus promised his people a swift and glorious victory. The invasion of Erden was meant to last a month. It had now bled for more than a year.
+
+It began as a desperate gambit by President-Marshal Lysander Corvus of Sirona. For fifteen years, his dictatorship had been propped up by the military might of the Meridian Federation, a force he used to crush any internal dissent. But with the voices of uprising growing louder in his own streets, Corvus needed a distraction—a glorious, unifying war. He turned his eyes to his neighbor, the Republic of Erden, and launched an invasion under the false pretext of liberating the Sironan-speaking people who lived there.
+
+He expected a quick victory. He underestimated the people of Erden.
+
+Under the leadership of their democratically elected President, Kaelen Rask, the people of Erden fought with a ferocity Corvus could not comprehend. They knew what they were fighting for. President Rask had forged a strategic, if fragile, alliance with the Caspian Combine, hoping their military power could act as a shield. The Combine, for its part, saw Erden as a potential buffer state against the Meridian Federation and agreed to provide limited support, though their true aim was to install a more compliant puppet government.
+
+Now, a year of brutal attrition had pushed both nations to the brink of collapse. The rot was deeper in Sirona, where the "quick victory" had become a bloody quagmire. The propaganda posters rang hollow. Across the nation, the "Don't Send Our Sons to the Grave" movement gained traction, with decorated veterans joining the protests. To save his regime, Corvus decided to stake everything on one last, decisive blow, convinced he held a hidden trump card that would finally win him the war.
+
+
+As part of the Combine’s newly endorsed troop deployment, Sean Walker found his wings clipped. Reassigned from his fighter squadron, he was now attached to a ground support company, tasked with piloting transport craft and providing close air support for the push to defend Erden’s capital, Aethelgard.
+
+His commanding officer was Captain Eric Voss, a man who was a perfect product of the Combine's bureaucracy: utterly incapable in any practical sense. Sean watched him, a knot of dread in his stomach. Two days ago, Voss, utterly lost and misreading his own command console, had nearly marched the entire company into a Sironan minefield. Only a frantic, screaming old farmer, running from his steading, had saved them.
+
+Without the people of Erden, their company would have been a line of smoking craters before they ever saw the capital. The locals gave the Combine soldiers everything they had—a loaf of precious bread, a cup of clean water, a whispered warning about an enemy patrol. Sean saw the hope in their tired, desperate eyes. They looked at the soldiers of the Caspian Combine not as cynical allies, but as saviors. They were counting on this reinforcement to help them defeat the invaders, a faith Sean feared was tragically misplaced.
+
+By the time Sean’s company reached the outskirts of Aethelgard, the city was already a skeleton. Sirona’s relentless air raids had shattered its defenses, leaving it exposed and vulnerable. Key infrastructure lay in ruins, and the sky was a permanent, bruised grey from the smoke of a hundred fires. The remnants of the Erden army had been forced back into a few fortified government buildings, isolated pockets of defiance in a dying city.
+
+The radio channels were a chaotic flood of desperation. Mayday calls from the besieged Erden units painted a grim picture: ammunition was nearly gone, fuel was exhausted, and food was a memory. They couldn't hold out much longer. Every plea for reinforcement was met with the same infuriatingly calm, automated reply from the Combine's central command: "Counter-offensive deploying... stand by."
+
+Sean knew some Combine companies were fighting, engaging the Sironan advance with courage, but it was a drop in the ocean. It wasn't enough. With every passing minute, his heart hammered against his ribs. He monitored the collapsing Erden front lines, reporting their status to Captain Voss with an urgency that bordered on insubordination. The situation was spiraling from desperate to catastrophic.
+
+"Sir, I have three drones armed and ready," Sean urged, his voice tight. "We can provide immediate air support for the presidential palace defenders. They're about to be overrun."
+
+From the command vehicle, Voss's voice crackled back, devoid of any emotion. "Negative, Lieutenant. Hold your position. We are awaiting confirmation."
+
+"Awaiting confirmation of what?" Sean whispered to himself, his knuckles white on the console. "People are dying right now."
+
+Then, the world dissolved into silent, impossible white.
+
+A flash, brighter than a sun, bleached the landscape, erasing shadows and searing itself onto the back of Sean's eyes. Even through the armored viewport, the intensity was blinding. A moment later, the shockwave hit—a physical blow, a ripple of force that shook their vehicles.
+
+It was a neutron bomb.
+
+Panic erupted. The disciplined order of the Combine forces shattered. Eric Voss’s voice, for the first time, was sharp with terror: "Pull back! All units, pull back to a safe distance! Now!"
+
+In the chaotic retreat, a storm of questions ripped through the communication channels, a mixture of horror and disbelief.
+
+*Who fired?*
+*Was it a last, desperate act from the defenders of Erden—a final, suicidal "kamikaze" strike?*
+*Or was it Corvus's trump card—a deadly warning from Sirona to the Caspian Combine?*
+*And the most terrifying question of all: where did the bomb come from? The Federation? Or their own side?*
+
+The unspoken fear hung heavy in the air, a silent scream that echoed louder than the blast itself: Had the proxy war just ended, and a nuclear war between the superpowers just begun?
+
+For hours, Captain Voss stared at the radiation readouts on the surveillance console, his face pale and beaded with sweat. Finally, he straightened up, a mask of professionalism sliding back into place. "Radiation levels are within acceptable limits. We're moving in."
+
+Sean was already out of his seat. "I'll call the medics and prep the rescue gear," he said, his mind racing. "There could be survivors in the shelters, deep in the basements."
+
+"We're going to the basements," Voss replied coldly, his eyes avoiding Sean's. "But we're not taking medics. We're taking the Corps of Engineers."
+
+The order made no sense, but it was an order. Voss led a detachment through the eerie, ash-covered streets to the ruins of the old Parliament building. In the cavernous basement, amidst the rubble, the engineers set up their equipment and began a controlled demolition, not of a collapsed wall, but of a solid, reinforced section of the foundation.
+
+After a series of muffled explosions, a heavy steel door was revealed, warped and buckled. They forced it open. It was a vault. Inside, gleaming in the beams of their flashlights, were the treasures of Erden: stacks of precious metals, priceless jewels, and historical artifacts that chronicled a thousand years of their history.
+
+Voss stepped inside, a greedy glint in his eyes as he began to calculate, his lips moving silently. He was estimating how much he could carry.
+
+Confusion pricked at Sean. "Did President Rask authorize this?" he asked.
+
+Voss ignored him.
+
+"Does *our* command authorize this?" Sean pressed, his voice rising.
+
+The Captain was too busy stuffing a priceless golden chalice into his field pack to respond. Other officers and soldiers were now pushing into the vault, their discipline dissolving into a frenzied scramble for loot.
+
+"Is this our mission?" Sean finally roared, his patience shattering. "To *loot* the people we were sent to save?"
+
+Voss finally looked up, his face a sneer of contempt. "Shut up, Lieutenant. Or you won't get a damn share."
+
+Just then, another captain shoved Sean aside. "Out of the way, fly-boy," he snarled, before joining Voss in the plunder. Sean stood frozen at the entrance, watching in disgust as soldiers of the Caspian Combine, men whose lives had been saved by the people of Erden just days ago, now scavenged through the heritage of their saviors like jackals on a carcass. It was one of the ugliest things he had ever witnessed. *Do they even have souls?* he wondered.
+
+"Sir!" A private's panicked voice cut through the greedy clamor. "Sironan armor and infantry approaching! Closing fast!"
+
+Voss, his pack now bulging, barked at Sean. "Hold the line, Lieutenant! Take a fire team and stop them!"
+
+It was a suicide order. They had brought no heavy anti-tank weapons. As Sean and a handful of privates took up defensive positions in the ruins, he saw his only chance. He still had a link to the drones he had armed earlier. With frantic precision, he called down a strike, guiding a missile into the command tank of the Sironan column. The explosion ripped through the street. The Sironan advance, unsure of how much air support the Combine had, faltered and temporarily fell back.
+
+As Sean turned to head back to the vault, a familiar sound roared overhead. He looked up just in time to see his own transport helicopter—the one he was assigned to pilot—lifting off and banking sharply away, leaving him behind.
+
+He sprinted back to the Parliament building. The vault was empty. The basement was deserted. The soldiers, the officers, Captain Voss—all of them were gone. The treasure of Erden was gone.
+
+He keyed his comms unit, his hands shaking with rage, but he didn't waste time hailing Voss. He scanned for the frequencies of other Combine companies in the area, any unit that wasn't part of Voss's looting operation. "This is Lieutenant Walker of ground support company Delta," he broadcasted. "My unit has deserted its post. I am here with a fire team, behind enemy lines. Does anyone read?"
+
+Only static answered. He tried every channel he could find. Nothing.
+
+The horrifying realization hit him like a physical blow. This wasn't just Voss's company. It was a coordinated withdrawal. He hadn't just been abandoned by his captain; he'd been cut off by the entire operation. Left for dead.
+
+One of the young privates with him, his face pale with terror, looked at Sean. "Sir? What do we do now?"
+
