@@ -296,3 +296,9 @@ One of the young privates with him, his face pale with terror, looked at Sean. "
 ***"Is this our mission?" Sean finally roared, his patience shattering. "To loot the people we were sent to save?"
 Voss finally looked up, his face a sneer of contempt. "Shut up, Lieutenant. Or you won't get a damn share."*** 
 [sample demo](https://youtube.com/shorts/Ws0BLONho1I)
+
+
+---
+Chaper 6: Mist of nuclear warfare
+
+Coming soon.
