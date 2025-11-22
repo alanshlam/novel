@@ -299,6 +299,67 @@ Voss finally looked up, his face a sneer of contempt. "Shut up, Lieutenant. Or y
 
 
 ---
-Chaper 6: Mist of nuclear warfare
+## Chaper 6: Mist of nuclear warfare
 
-Coming soon.
+In the seventy-two hours after the flash over Aethelgard, the world held its breath, waiting for the killing to start.
+
+The propaganda machines of the two superpowers roared to life. On every news feed, talking heads from the Caspian Combine cursed the Meridian Federation, accusing them of providing a rogue nuclear weapon to Sirona to slaughter the citizens of Erden. In response, Federation spokespeople coolly rebutted, calling the accusation an outlandish lie meant to cover up the Combine's own recklessness. They implied the bomb was a desperate final act by Erden, aided by the Combine, in a gross violation of nuclear non-proliferation treaties.
+
+The denial was gasoline on the fire. The Combine media called it a despicable insult to their soldiers who had died on Erden soil, pointing out that their own troops were still on the ground during the blast. The rhetoric escalated from outrage to open threat. Intelligence reports, leaked or fabricated, suggested that preemptive strike options were now on the presidents' tables. Both nations sent their strategic nuclear bombers into the sky on high alert, and their silent, deadly submarines began moving towards the coasts of their enemies. The world was on a hair trigger.
+
+
+Undersecretary Thorne’s office felt like a tomb. He called Ruby in for an urgent meeting, his face grim. "The media is in a frenzy. We need a unified response, now."
+
+Ruby cut straight to the point. "Did we give Sirona that bomb?"
+
+Thorne’s eyes, usually cold and unreadable, flickered with something that might have been frustration. "We secretly provided Corvus's regime with a limited arsenal of low-yield tactical neutron devices, yes," he admitted, his voice a low growl. "They were a defensive measure, a buffer against a direct Combine invasion of their territory. But they were never to be used on Erden. Every warhead is quantum-entangled with our central command. It is impossible to arm one without our authorization codes. I don't know where the bomb that detonated in Aethelgard came from, but I know it wasn't one of ours."
+
+He leaned forward, his voice dropping to a conspiratorial whisper. "Now, get to work. Deny everything. Every accusation from the Combine is a lie. The narrative is that the Combine and Erden are the aggressors. The President is in the situation room. The world is watching you. Go."
+
+At the press conference, Ruby was a mask of calm authority. She stood at the podium, the flash of cameras like a thousand tiny explosions. "The Meridian Federation reiterates its strict adherence to the nuclear non-proliferation treaty," she said, her voice steady and clear. "Our policy is, and has always been, to never be the first to use nuclear weapons..." The boilerplate phrases felt like stones in her mouth, but she delivered them flawlessly.
+
+As the days crawled by, the world began to panic. People emptied store shelves, hoarding food, fuel, and medicine. Global stock markets plunged to record lows. A terrifying sense of inevitability had set in. Everyone was waiting for the missiles to fly.
+
+In her heart, Ruby feared that the blind, empty-headed patriotism on both sides would be the spark that ignited the apocalypse. She had to find a way to de-escalate the crisis. Alone in her apartment, she began to analyze the puzzle, the pieces swirling in her mind.
+
+*Who dropped the bomb?* A kamikaze strike from Erden seemed illogical; their Combine reinforcements were still on the ground. President Rask was not that reckless. Sirona, then? But they were on the verge of capturing the city. A nuclear strike on a prize you are about to win made no tactical sense. Was it a distraction for something else? And the biggest piece of the puzzle, the one that didn't fit: if it wasn't a Federation bomb, *where did it come from?*
+
+As she stared at the wall, lost in thought, her personal datapad chimed. It was a device she kept air-gapped from Ministry networks, for emergencies. An anonymous message had appeared from a heavily encrypted app she hadn't used in months. Her blood ran cold as she read the simple, six-word sentence:
+
+*I still remember your advice to my students.*
+
+Below it was a dark web link, and a new instruction. *Login with the password you gave me.*
+
+Ruby took a deep breath, her heart pounding, and logged into the dark web link. The chat window was a stark, anonymous black.
+
+**Ruby:** Are you in Erden? Are you in danger?
+
+**Sean:** Both of our nations are in danger. I’m sending you a package of top-secret documents from high officials. Pass it to your Intelligence Agency. They will know what to do. Just say it's from a whistleblower in your Sironan alliance.
+
+Ruby’s hands trembled as she initiated the download. The files that appeared on her screen were beyond anything she could have imagined. A chill that had nothing to do with the room's temperature traced its way down her spine.
+
+**Ruby:** Is this true? Did you verify it?
+
+**Sean:** It is 100% true. I got it first-hand. We need to act fast. There's no telling what this lunatic can do next. I'll provide more if I can. Take care. Sean Walker, out.
+
+The connection severed. *Sean Walker.* The name echoed in her mind. She finally knew who he was. But the knowledge only deepened the mystery. How could a low-ranking pilot possibly get access to information this explosive?
+
+She sent the package to Undersecretary Thorne. The grim, serious look on his face as he read it was all the confirmation she needed. "I will pass this to the Intelligence Agency to analyze," he said, his voice low and tense.
+
+The next morning, Thorne called her to his office. His usual cynical demeanor was gone, replaced by a sharp, focused intensity. "The Agency has analyzed the data," he said. "They've verified its accuracy. Let's go have a chat with a friend in Cygnus."
+
+In a sterile hotel suite in the Republic of Cygnus, the Combine ambassador, a man with sweat beading on his brow, finished reading the dossier Thorne had provided. He took off his glasses, trying to project an air of nonchalance that his trembling hands betrayed. "Do you really believe such nonsense?" he scoffed.
+
+Thorne leaned forward, his eyes like chips of ice. "I would hope it's nonsense," he replied, his voice dangerously soft. "But your spies, the ones we just picked up, have already confessed. They've verified everything."
+
+The ambassador’s composure shattered.
+
+Thorne leaned back, folding his arms. "We know the Combine does not have the intention of starting a nuclear war with us. We will recall our bombers and submarines. I hope you will follow."
+
+"Of course," the ambassador replied, a wave of relief washing over him. "If the Federation takes the first step, we are happy to follow accordingly."
+
+Then Thorne’s gaze turned fierce. "Don't think you can get away with this," he snarled. "Shut down your espionage network in the Federation. We will eradicate it eventually anyway. We know how to deal with *our* 'bad guys'. I hope your president will do the same... assuming he isn't truly involved."
+
+A day later, the world pulled back from the brink. The bombers and submarines returned to their ports. The troops at the border stood down.
+
+*Sean Walker.* The name was now etched in her mind. She was in awe of his survival skills. While facing so many enemies, he had still found a way to stop a nuclear war, saving billions of lives. He was a ghost, a hero, and the biggest mystery in her life.
