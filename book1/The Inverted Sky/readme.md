@@ -192,10 +192,10 @@ Days later, Sean tried the dark web link again. It was dead. The forum account w
 
 *Ruby Vance.* The name was now etched in his mind. Her bravery and unwavering determination to uphold her conscience in the face of treason deeply impressed his heart. He looked out at the sky, wondering what the world could be if more people in power were like her—willing to risk everything for what was right.
 
-[<img src="../image/ch4.png" width="300">](https://youtube.com/shorts/7slHHGAvn-k)
+[<img src="../image/ch4.png" width="300">](https://youtube.com/shorts/-5g2S5slVb4)
 
 ***The less we communicate, the safer we are. I will find you if needed. You can track my status through official Federation media... if I'm still there. Take care. Ruby Vance, out***  
-[sample video](https://youtube.com/shorts/7slHHGAvn-k)
+[sample video](https://youtube.com/shorts/-5g2S5slVb4)
 
 ---
 ## Chapter 5: Looting
