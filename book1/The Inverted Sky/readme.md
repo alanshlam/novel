@@ -377,3 +377,7 @@ Sitting in her office, the silence felt deafening. The world celebrated a victor
 ***"We need to act fast. There's no telling what this lunatic can do next. I'll provide more if I can. Take care, Ruby. Sean Walker, out."*** 
 [https://youtube.com/shorts/FC64Xp_GXEg)
 
+---
+## Chapter 7: Abandoned
+
+Coming soon...
