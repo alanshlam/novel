@@ -330,19 +330,27 @@ As she stared at the wall, lost in thought, her personal datapad chimed. It was 
 
 Below it was a dark web link, and a new instruction. *Login with the password you gave me.*
 
-Ruby took a deep breath, her heart pounding, and logged into the dark web link. The chat window was a stark, anonymous black.
+Ruby’s heart hammered against her ribs as she logged into the dark web link. The stark, anonymous chat window did little to calm the tremor in her hands. A thousand terrifying possibilities ran through her mind, but they all boiled down to one question.
 
-**Ruby:** Are you in Erden? Are you in danger?
+**Ruby:** Are you safe?
 
-**Sean:** Both of our nations are in danger. I’m sending you a package of top-secret documents from high officials. Pass it to your Intelligence Agency. They will know what to do. Just say it's from a whistleblower in your Sironan alliance.
+The reply was almost instantaneous, the words appearing with a speed that spoke of pure urgency.
 
-Ruby’s hands trembled as she initiated the download. The files that appeared on her screen were beyond anything she could have imagined. A chill that had nothing to do with the room's temperature traced its way down her spine.
+**Sean:** Is anyone? Both of our nations are in danger. I’m sending you a package of top-secret documents. Pass it to your Intelligence Agency. They will know what to do. Just say it's from a whistleblower in your Sironan alliance.
 
-**Ruby:** Is this true? Did you verify it?
+The message was cold, tactical. But her first question had not been about the world; it had been about him. His reply, which ignored her concern completely, was its own kind of answer. He was alive, but he was not safe.
 
-**Sean:** It is 100% true. I got it first-hand. We need to act fast. There's no telling what this lunatic can do next. I'll provide more if I can. Take care. Sean Walker, out.
+Her hands trembled as she initiated the download. The files that appeared on her screen were beyond anything she could have imagined. A chill that had nothing to do with the room's temperature traced its way down her spine.
 
-The connection severed. *Sean Walker.* The name echoed in her mind. She finally knew who he was. But the knowledge only deepened the mystery. How could a low-ranking pilot possibly get access to information this explosive?
+**Ruby:** This is... This is impossible. Is this real?
+
+**Sean:** 100% real. I got it first-hand. We need to act fast. There's no telling what this lunatic can do next.
+
+There was a pause, a small space between the tactical and the personal. Then, a new line appeared.
+
+**Sean:** I'll provide more if I can. Take care, Ruby. Sean Walker, out.
+
+He had used her first name. It was a tiny thing, a minuscule breach of protocol in a conversation that constituted high treason, but it felt intensely personal. The connection severed, leaving her alone with the name *Sean Walker* and the terrifying weight of what he had just entrusted to her. The mystery of how a low-ranking pilot could obtain such information was dwarfed by the sheer fact that he had, and that he had given it to her.
 
 She sent the package to Undersecretary Thorne. The grim, serious look on his face as he read it was all the confirmation she needed. "I will pass this to the Intelligence Agency to analyze," he said, his voice low and tense.
 
@@ -362,4 +370,6 @@ Then Thorne’s gaze turned fierce. "Don't think you can get away with this," he
 
 A day later, the world pulled back from the brink. The bombers and submarines returned to their ports. The troops at the border stood down.
 
-*Sean Walker.* The name was now etched in her mind. She was in awe of his survival skills. While facing so many enemies, he had still found a way to stop a nuclear war, saving billions of lives. He was a ghost, a hero, and the biggest mystery in her life.
+Sitting in her office, the silence felt deafening. The world celebrated a victory of diplomacy, but Ruby knew it was a victory born from a desperate act of trust between two enemies. *Sean Walker.* The name was now a constant presence in her mind. He had saved billions, but her first thought, the one that returned to her in the quiet moments, was the same one she had typed into the chat window: *Are you safe?* She was in awe of what he had done, but she was terrified of what it might have cost him.
+
+
