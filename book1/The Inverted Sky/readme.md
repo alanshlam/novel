@@ -372,4 +372,8 @@ A day later, the world pulled back from the brink. The bombers and submarines re
 
 Sitting in her office, the silence felt deafening. The world celebrated a victory of diplomacy, but Ruby knew it was a victory born from a desperate act of trust between two enemies. *Sean Walker.* The name was now a constant presence in her mind. He had saved billions, but her first thought, the one that returned to her in the quiet moments, was the same one she had typed into the chat window: *Are you safe?* She was in awe of what he had done, but she was terrified of what it might have cost him.
 
+[<img src="../image/ch6.png" width="300">](https://youtube.com/shorts/FC64Xp_GXEg)
+
+***"We need to act fast. There's no telling what this lunatic can do next. I'll provide more if I can. Take care, Ruby. Sean Walker, out."*** 
+[https://youtube.com/shorts/FC64Xp_GXEg)
 
