@@ -14,7 +14,7 @@ To stop her own government from backing a genocidal warlord, Ruby Vance must orc
 ## Introduction for [Chapter 5:Looting](./The%20Inverted%20Sky#chapter-5-Looting)
 A year into a brutal war he was never meant to fight on the ground, Sean Walker is reassigned to the front lines in the besieged Republic of Erden. There, he must confront the incompetence of his own command and the desperate faith of the local population. But when a sudden, horrific escalation changes the battle field forever, Sean is forced to witness the true, predatory nature of his allies, leaving him abandoned and fighting for his life against two enemies at once.
 
-## Introduction for Chapter 6:Mist of Nuclear War
+## Introduction for [Chapter 6:Mist of Nuclear War](./The%20Inverted%20Sky#chaper-6-mist-of-nuclear-warfare)
 In the aftermath of a shocking nuclear detonation, the world teeters on the brink of annihilation. As the two superpowers trade accusations and prepare for war, Ruby Vance and Sean Walker must re-establish their clandestine contact. In a desperate race against time, they exchange explosive, high-level intelligence to pull their nations back from the edge, only to uncover a deeper, more terrifying mystery.
 
 --- 
