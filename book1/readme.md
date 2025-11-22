@@ -14,6 +14,9 @@ To stop her own government from backing a genocidal warlord, Ruby Vance must orc
 ## Introduction for [Chapter 5:Looting](./The%20Inverted%20Sky#chapter-5-Looting)
 A year into a brutal war he was never meant to fight on the ground, Sean Walker is reassigned to the front lines in the besieged Republic of Erden. There, he must confront the incompetence of his own command and the desperate faith of the local population. But when a sudden, horrific escalation changes the battle field forever, Sean is forced to witness the true, predatory nature of his allies, leaving him abandoned and fighting for his life against two enemies at once.
 
+## Introduction for Chapter 6:Mist of Nuclear War
+In the aftermath of a shocking nuclear detonation, the world teeters on the brink of annihilation. As the two superpowers trade accusations and prepare for war, Ruby Vance and Sean Walker must re-establish their clandestine contact. In a desperate race against time, they exchange explosive, high-level intelligence to pull their nations back from the edge, only to uncover a deeper, more terrifying mystery.
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -30,3 +33,7 @@ A year into a brutal war he was never meant to fight on the ground, Sean Walker 
 
 ## [第五章:搶劫](./逆轉蒼穹#第五章搶劫) 引言 (Introduction for Chapter 5)
 在這場他本不應參與的殘酷地面戰爭持續一年後，尚恩·沃克被重新分配到被圍困的厄爾登共和國前線。在那裡，他必須面對自己指揮系統的無能，以及當地人民絕望的信念。然而，當一場突如其來、駭人聽聞的戰事升級永遠改變了戰場，尚恩被迫見證了其盟友真正的掠奪本性，使他被遺棄，為了生存，他必須同時對抗兩個敵人。
+
+## 第六章:核戰迷霧 引言 (Introduction for Chapter 6)
+隨著一場駭人聽聞的核爆發生，世界瀕臨毀滅的邊緣。當兩大超級強權相互指責並準備開戰之際，露比·萬斯和尚恩·沃克必須重新建立他們的秘密聯繫。在一場分秒必爭的絕命賽跑中，他們交換了足以將各自國家從懸崖邊拉回來的爆炸性高層情報，卻也因此揭開了一個更深、更駭人的謎團。
+
