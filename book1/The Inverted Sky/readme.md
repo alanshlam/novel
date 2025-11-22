@@ -192,10 +192,10 @@ Days later, Sean tried the dark web link again. It was dead. The forum account w
 
 *Ruby Vance.* The name was now etched in his mind. Her bravery and unwavering determination to uphold her conscience in the face of treason deeply impressed his heart. He looked out at the sky, wondering what the world could be if more people in power were like her—willing to risk everything for what was right.
 
-[<img src="../image/ch4.png" width="300">](https://youtube.com/shorts/-5g2S5slVb4)
+[<img src="../image/ch4.png" width="300">](https://youtube.com/shorts/7slHHGAvn-k)
 
 ***The less we communicate, the safer we are. I will find you if needed. You can track my status through official Federation media... if I'm still there. Take care. Ruby Vance, out***  
-[sample video](https://youtube.com/shorts/-5g2S5slVb4)
+[sample video](https://youtube.com/shorts/7slHHGAvn-k)
 
 ---
 ## Chapter 5: Looting
@@ -291,11 +291,11 @@ The horrifying realization hit him like a physical blow. This wasn't just Voss's
 One of the young privates with him, his face pale with terror, looked at Sean. "Sir? What do we do now?"
 
 
-[<img src="../image/ch5.png" width="300">](https://youtube.com/shorts/Ws0BLONho1I)
+[<img src="../image/ch5.png" width="300">](https://youtube.com/shorts/-5g2S5slVb4)
 
 ***"Is this our mission?" Sean finally roared, his patience shattering. "To loot the people we were sent to save?"
 Voss finally looked up, his face a sneer of contempt. "Shut up, Lieutenant. Or you won't get a damn share."*** 
-[sample demo](https://youtube.com/shorts/Ws0BLONho1I)
+[sample demo](https://youtube.com/shorts/-5g2S5slVb4)
 
 
 ---
