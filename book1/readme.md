@@ -17,10 +17,10 @@ A year into a brutal war he was never meant to fight on the ground, Sean Walker 
 ## Introduction for [Chapter 6:Mist of Nuclear War](./The%20Inverted%20Sky#chaper-6-mist-of-nuclear-warfare) 
 In the aftermath of a shocking nuclear detonation, the world teeters on the brink of annihilation. As the two superpowers trade accusations and prepare for war, Ruby Vance and Sean Walker must re-establish their clandestine contact. In a desperate race against time, they exchange explosive, high-level intelligence to pull their nations back from the edge, only to uncover a deeper, more terrifying mystery.
 
-## Introduction for Chapter 7
+## Introduction for [Chapter 7:Abandoned](./The%20Inverted%20Sky#chapter-7-abandoned)
 Abandoned by his own company after a brutal battle, Sean Walker must lead a handful of surviving soldiers and a large group of civilian refugees through enemy territory. His only guide is a data tablet from a fallen general, pointing him towards a mysterious "package" that is the last  hope for the besieged Republic of Erden.
 
-## Introduction for Chapter 8
+## Introduction for [Chapter 8:A Game of Minds](./The%20Inverted%20Sky#chapter-8-a-game-of-minds)
 Captured by the enemy, Sean is forced into a high-stakes psychological battle with a Sironan general. With the lives of 1,500 refugees on the line, he must bluff his way through a dangerous web of conspiracy, using his wits to turn his captor's secrets against them and orchestrate a daring escape.
 
 --- 
@@ -43,10 +43,10 @@ Captured by the enemy, Sean is forced into a high-stakes psychological battle wi
 ## [第六章:核戰迷霧](./逆轉蒼穹#第六章核戰迷霧) 引言 (Introduction for Chapter 6)
 隨著一場駭人聽聞的核爆發生，世界瀕臨毀滅的邊緣。當兩大超級強權相互指責並準備開戰之際，露比·萬斯和尚恩·沃克必須重新建立他們的秘密聯繫。在一場分秒必爭的絕命賽跑中，他們交換了足以將各自國家從懸崖邊拉回來的爆炸性高層情報，卻也因此揭開了一個更深、更駭人的謎團。
 
-## 第七章引言 (Introduction for Chapter 7)
+## [第七章:被遺棄](./逆轉蒼穹#第七章被遺棄) 引言 (Introduction for Chapter 7)
 在一場殘酷的戰鬥後被自己的連隊遺棄，尚恩·沃克必須帶領少數倖存的士兵和一大群平民難民，穿越敵方領土。他唯一的指引，是來自一位殞落將軍的數據板，它指向一個神秘的「包裹」——那是在劫難逃的厄爾登共和國的最後希望。
 
-## 第八章引言 (Introduction for Chapter 8)
+## [第八章:心智的博弈](./逆轉蒼穹#第八章心智的博弈) 引言 (Introduction for Chapter 8)
 被敵軍俘虜後，尚恩被迫與一名西羅納將軍展開一場高風險的心理戰。背負著1500名難民的性命，他必須憑藉自己的智慧，在一個危險的陰謀網絡中虛張聲勢，利用
 他俘虜者的秘密來反制他們，並策劃一場大膽的逃脫。
 
