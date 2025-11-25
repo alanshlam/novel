@@ -643,9 +643,8 @@ He had it all. The entire conspiracy, laid bare.
 
 Sean leaned back, the magnitude of what he now possessed settling over him. This was the weapon that could end the entire shadow war. But it was a weapon he couldn't wield alone. He took a deep breath, his course of action suddenly, terrifyingly clear.
 
-It was time to call the one person in the universe he could trust.
+It was time to call the one person in the universe he could trust. —— Ruby Vance. 
 
-It was time to call Ruby Vance.
 
 Upon arriving in the fortified city of Northgate, Sean was granted an immediate audience with the president. He presented himself to the officials, stating simply, "I have some personal effects of General Rask. I was instructed to deliver them only to the President, in person."
 
