@@ -393,7 +393,7 @@ One of the young privates with him, his face pale with terror, looked at Sean. "
 [<img src="../image/ch5.png" width="300">](https://youtube.com/shorts/-5g2S5slVb4)
 
 ***"Is this our mission?" Sean finally roared, his patience shattering. "To loot the people we were sent to save?"
-Voss finally looked up, his face a sneer of contempt. "Shut up, Lieutenant. Or you won't get a damn share."*** 
+Voss finally looked up, his face a sneer of contempt. "Shut up, Lieutenant. Or you won't get a damn share."***   
 [sample demo](https://youtube.com/shorts/-5g2S5slVb4)
 
 
@@ -473,7 +473,7 @@ Sitting in her office, the silence felt deafening. The world celebrated a victor
 
 [<img src="../image/ch6.png" width="300">](https://youtube.com/shorts/FC64Xp_GXEg)
 
-***"We need to act fast. There's no telling what this lunatic can do next. I'll provide more if I can. Take care, Ruby. Sean Walker, out."*** 
+***"We need to act fast. There's no telling what this lunatic can do next. I'll provide more if I can. Take care, Ruby. Sean Walker, out."***   
 [sample video](https://youtube.com/shorts/FC64Xp_GXEg)
 
 ---
@@ -559,7 +559,7 @@ As he was being bound, Sean locked eyes with the Sironan officer in charge. It w
 
 [<img src="../image/lisa.png" width="300">](https://youtube.com/shorts/o9POZ1jVfWY)
 
-**Sironan troops swept in last night. We left with nothing—no food, no coats. An Erden platoon held them off so we could escape, but... everyone is looking to me, and I don't know what to do.** 
+**Sironan troops swept in last night. We left with nothing—no food, no coats. An Erden platoon held them off so we could escape, but... everyone is looking to me, and I don't know what to do.**   
 [sample video](https://youtube.com/shorts/o9POZ1jVfWY)
 
 ---
@@ -701,7 +701,7 @@ He did not know then that his journey was far from over. He could not imagine th
 
 [<img src="../image/agent.png" width="300">](https://youtube.com/shorts/Bt9yUIfKv1w)  
 
-***"I never wanted to be a betrayer. Those bastards... they forced me. They threatened my family... and now my family is gone... all gone in the air raid in the capital. I won't work for those bastards anymore. I will tell her everything."***
+***"I never wanted to be a betrayer. Those bastards... they forced me. They threatened my family... and now my family is gone... all gone in the air raid in the capital. I won't work for those bastards anymore. I will tell her everything."***  
 [sample video](https://youtube.com/shorts/Bt9yUIfKv1w)
 
 ---
