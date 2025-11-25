@@ -673,7 +673,7 @@ He did not know then that his journey was far from over. He could not imagine th
 
 <img src="../image/agent.png" width="300">  
 
-***"Those bastards... they forced me. They threatened my family... and now my family is gone... all gone in the air raid in the capital. I won't work for those bastards anymore. I will tell her everything."***
+***"I never wanted to be a betrayer. Those bastards... they forced me. They threatened my family... and now my family is gone... all gone in the air raid in the capital. I won't work for those bastards anymore. I will tell her everything."***
 
 ---
 ## Chapter 9: Suicide Mission
