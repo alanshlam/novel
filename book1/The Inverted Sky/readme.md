@@ -495,19 +495,19 @@ Looking at Lisa Aris and the fifteen hundred desperate souls huddled behind her,
 
 He opened General Rask’s tablet. In the command chat log, still active with officers who didn't know their general was dead, he began to type. He had to maintain the charade.
 
-<General Rask>: *I am with 1,500 civilian survivors from Oakhaven. Requesting immediate extraction point and available support.*
+[General Rask]: *I am with 1,500 civilian survivors from Oakhaven. Requesting immediate extraction point and available support.*
 
 The channel erupted. Messages of relief and thanks flooded the screen. Officers, thinking their general had miraculously survived, praised his name. Sean’s stomach churned with the lie, but he knew it was a necessary evil. Revealing the truth now would cause a catastrophic collapse in morale. Impersonating a dead hero was the only way to smooth the path forward.
 
 Unanimously, they told him to lead the civilians to Northgate. After fifteen minutes of frantic planning on their end, a route materialized. He was to lead the survivors to a nearby abandoned arsenal, then through another secret railway line to a hidden mountain depot. Inside, an armored military train stood ready. The route was a desperate, winding path through territory they *hoped* was not yet controlled by Sirona.
 
 Sean typed his final, crucial question.
-<General Rask>: *What are my support options for this escort? Air, ground, anything?*
+[General Rask]: *What are my support options for this escort? Air, ground, anything?*
 
 The replies came back, one after another, each one a nail in the coffin of his hopes.
-<Reply>: *Negative, sir. All air assets are gone.*
-<Reply>: *Ground troops are pinned down, holding the line west of your position.*
-<Reply>: *The Combine forces appear to be in a general retreat since the blast.*
+[Reply]: *Negative, sir. All air assets are gone.*
+[Reply]: *Ground troops are pinned down, holding the line west of your position.*
+[Reply]: *The Combine forces appear to be in a general retreat since the blast.*
 
 The implication was terrifyingly clear. He was on his own.
 
