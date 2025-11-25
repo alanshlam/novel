@@ -54,6 +54,34 @@ A high-ranking and ambitious Sironan general, Valerius is a key player in the co
 ---
 </details>
 
+<details>
+<summary> A Primer on the Galactic Powers </summary>
+
+### The Meridian Federation <img src=../image/mf_flag.png width="40">
+
+The dominant superpower in the known galaxy, the Meridian Federation presents itself as a stable, sophisticated, and enlightened republic, a beacon of order and prosperity. In reality, its vast bureaucracy is driven by a cold, cynical realpolitik, and it maintains its dominance through a web of client states, economic control, and overwhelming military might. Led by a powerful, often unseen Ministry of State, the Federation views the rest of the galaxy as pieces on a chessboard, to be managed and manipulated for its own long-term security and influence. Ruby Vance is a product of its elite diplomatic corps.
+
+### The Caspian Combine <img src=../image/cc_flag.png width="40">
+
+A rising, industrial superpower forged from a union of resource-rich worlds, the Caspian Combine is the primary rival to the Meridian Federation. The Combine's ideology is one of collective strength, pragmatism, and relentless ambition. While officially a democracy, its government is deeply intertwined with its powerful military-industrial complex, creating a society that values utilitarian strength over individual liberty. The Combine is seen by the Federation as a brutish, expansionist threat, while it sees itself as the only power strong enough to challenge the Federation's galactic hegemony. Sean Walker is an officer in its formidable air force.
+
+### The Republic of Cygnus <img src=../image/Cygnus.png width="40">
+
+A staunchly neutral and immensely wealthy nation, the Republic of Cygnus has carved out a unique position between the two rival superpowers. Famous for its luxurious resorts, discreet banking systems, and role as a neutral ground for high-stakes diplomacy, Cygnus is the Switzerland of the galaxy. Its government prioritizes economic prosperity and unwavering neutrality above all else, making its territory a safe haven for spies, diplomats, and anyone seeking refuge from the galactic conflict—as long as they can afford the price of admission and agree to leave their wars at the border.
+
+### The Republic of Sirona <img src=../image/Sirona.png width="40">
+
+An authoritarian state masquerading as a republic, Sirona is a client nation of the powerful Meridian Federation. For fifteen years, it has been under the iron-fisted rule of President-Marshal Lysander Corvus, who relies on Federation military support to suppress dissent and maintain his power. With a faltering economy and growing internal unrest, Corvus's regime initiated the war with its neighbor, Erden, under the false pretext of "liberating" the Sironan-speaking populace. Sirona is a nation built on a foundation of aggressive nationalism, political paranoia, and a desperate need to project strength to hide its internal decay.
+
+### The Republic of Erden <img src=../image/Erden.png width="40">
+
+A resilient and sovereign democracy, the Republic of Erden is a nation defined by its fierce independence and the determination of its people. Led by the popularly elected President Kaelen Rask, Erden finds itself caught between two hostile superpowers. Threatened by the aggression of its neighbor, Sirona, Erden has entered into a fragile, mistrustful alliance with the Caspian Combine for protection. While the Combine's support is limited and comes with its own agenda, the people of Erden are united in their fight for their land, their freedom, and their right to self-governance, embodying a spirit of endurance against overwhelming odds.
+
+
+
+---
+</details>
+
 --- 
 ## Chapter 1: Acquaintance
 
