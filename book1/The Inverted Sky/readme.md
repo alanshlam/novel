@@ -210,6 +210,20 @@ An authoritarian state masquerading as a republic, Sirona is a client nation of 
 A resilient and sovereign democracy, the Republic of Erden is a nation defined by its fierce independence and the determination of its people. Led by the popularly elected President Kaelen Rask, Erden finds itself caught between two hostile superpowers. Threatened by the aggression of its neighbor, Sirona, Erden has entered into a fragile, mistrustful alliance with the Caspian Combine for protection. While the Combine's support is limited and comes with its own agenda, the people of Erden are united in their fight for their land, their freedom, and their right to self-governance, embodying a spirit of endurance against overwhelming odds.
 </details>
 
+<details>
+<summary> Secondary Characters</summary>
+  
+**Captain Eric Voss (Caspian Combine)** 
+An incompetent and cowardly officer in the Combine army, Voss is a product of a system that rewards loyalty over ability. He is Sean's direct commander in Erden and embodies the bureaucratic rot and moral corruption that Sean despises, prioritizing personal gain and self-preservation above all else.
+
+**President-Marshal Lysander Corvus (Sirona)**
+The ruthless dictator of Sirona. For fifteen years, Corvus has clung to power through fear and the backing of his patrons in the Meridian Federation. He is paranoid, ambitious, and willing to start a war and risk nuclear catastrophe to save his own regime.
+
+**President Kaelen Rask (Erden)**
+The democratically elected President of the Republic of Erden. A strong, resilient, and principled leader, she is caught in an impossible situation: fending off an invasio
+
+
+</details>
 
 
 President-Marshal Corvus promised his people a swift and glorious victory. The invasion of Erden was meant to last a month. It had now bled for more than a year.
