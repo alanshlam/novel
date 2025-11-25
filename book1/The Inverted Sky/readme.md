@@ -451,4 +451,87 @@ Sitting in her office, the silence felt deafening. The world celebrated a victor
 ---
 ## Chapter 7: Abandoned
 
+"Sir? What do we do now?"
+
+The private’s terrified question sliced through the silence of the looted vault, and the weight of it landed squarely on Sean’s shoulders. He looked at the handful of men staring at him, their faces pale under the beam of his flashlight. He was their officer. They were his responsibility. He asked himself the same question, but his mind was a maelstrom of horrific consequences.
+
+As he scanned the empty, desecrated room, a faint glint of light reflected off something on the dusty floor. A data tablet, half-hidden by debris. Its screen was cracked but intact. Worthless compared to the treasures Voss and his men had stolen, but it wouldn't have been in the vault if it wasn't important.
+
+He picked it up. The device was biometrically locked. A few feet away, sprawled near the vault's entrance, was the body of an Erden officer, his uniform signifying high rank. He must have been killed instantly by the concussive force of the blast. An idea, grim and disrespectful, formed in Sean’s mind. With a muttered apology, he knelt and pressed the dead general's thumb to the tablet's sensor.
+
+The screen flickered to life: *Welcome, General John Rask.*
+
+*Rask.* The brother of President Kaelen Rask. Sean’s instinct was right. He activated the tablet's audio log. The last entry was timestamped just before the blast. General Rask's voice, tired but resolute, filled the silence. *'The Sironans are at the gates. I have sent the package on ahead to Oakhaven with a trusted platoon for emergency extraction. I will not hide in a tomb while my soldiers die on the ramparts. For Erden.'*
+
+The message ended. Sean looked at the general, a man who chose to face death with his soldiers rather than hide with his treasure. He gently removed the man's dog tags, insignia, and watch—relics for a grave that would never be dug. Then he stood, straightened his own uniform, and gave the fallen general the deepest salute he had ever rendered. "I'm sorry, sir," he whispered, the words a quiet condemnation of what Voss had done.
+
+The tablet was a mess of chaotic, fragmented messages, most of them panicked reports of units being overrun. There was no time to piece it all together. Sean activated the tablet's AI assistant. "Show me the emergency evacuation route."
+
+Following the AI's instruction, Sean led his men through a maze of service corridors into a secret underground railway system. They rumbled through the darkness beneath the dead city, finally emerging at a desolate, empty shore. No rescue vessel was waiting.
+
+Under the dimming sky, Sean finally had time to analyze the tablet's data. President Rask had been secretly relocated to the northern city of Northgate before the capital fell. And the "package" General Rask had mentioned—something of immense importance—had been transferred from the Parliament vault to the small town of Oakhaven, ten kilometers away, for emergency extraction. The mission was clear: deliver the package to the President at all costs.
+
+Oakhaven. A destination. A chance to regroup with whatever Erden forces were there. It was the first flicker of hope they'd had.
+
+The next morning, on the road to Oakhaven, hope died.
+
+A large column of civilians was heading towards them, their faces etched with fear and exhaustion. They were coming *from* Oakhaven. A young woman at the front, her clothes torn and her face smudged with soot, ran towards Sean, her eyes wild with desperation.
+
+"Please, soldier, you have to help us get to Aethelgard!" she pleaded.
+
+"The capital is... chaos," Sean said, his voice carefully neutral. "It's not safe. Why are you heading there?"
+
+"We're from Oakhaven," she replied, her voice choked with tears and exhaustion. "Sironan troops swept in last night. We left with nothing—no food, no coats. An Erden platoon held them off so we could escape, but... everyone is looking to me, and I don't know what to do."
+
+She took a ragged breath, her shoulders slumping with the weight of her responsibility. "My name is Lisa Aris. My father was the mayor, but he was called to the capital's defense last month, so I've been acting in his place. He's a strong leader. He'll know how to settle our people, where we can be safe. I have to find him... I need his advice."
+
+Tears were now streaming freely down her face. Sean's heart broke. He couldn't tell her that Aethelgard was a tomb of ash and rubble, that her father was almost certainly dead.
+
+"There are some abandoned shops a klick back," he said, his voice softer than he intended. "Take your people. Get what you need. We'll figure out a plan." He had to ask. "The Erden platoon that helped you... did they pass anything to you? A package?"
+
+Lisa shook her head, a fresh wave of grief washing over her. "No. Nothing. They were our men... they just held the line and told me to run." She looked back in the direction of the town, her expression hollow. "They won't make it. When I looked back... the whole town was on fire."
+
+Looking at Lisa Aris and the fifteen hundred desperate souls huddled behind her, Sean felt the weight of command settle on him like a shroud. This was more than just a mission now. This was atonement—a chance to remedy the shame of what Voss and his men had done. He would not abandon these people.
+
+He opened General Rask’s tablet. In the command chat log, still active with officers who didn't know their general was dead, he began to type. He had to maintain the charade.
+
+<General Rask>: *I am with 1,500 civilian survivors from Oakhaven. Requesting immediate extraction point and available support.*
+
+The channel erupted. Messages of relief and thanks flooded the screen. Officers, thinking their general had miraculously survived, praised his name. Sean’s stomach churned with the lie, but he knew it was a necessary evil. Revealing the truth now would cause a catastrophic collapse in morale. Impersonating a dead hero was the only way to smooth the path forward.
+
+Unanimously, they told him to lead the civilians to Northgate. After fifteen minutes of frantic planning on their end, a route materialized. He was to lead the survivors to a nearby abandoned arsenal, then through another secret railway line to a hidden mountain depot. Inside, an armored military train stood ready. The route was a desperate, winding path through territory they *hoped* was not yet controlled by Sirona.
+
+Sean typed his final, crucial question.
+<General Rask>: *What are my support options for this escort? Air, ground, anything?*
+
+The replies came back, one after another, each one a nail in the coffin of his hopes.
+<Reply>: *Negative, sir. All air assets are gone.*
+<Reply>: *Ground troops are pinned down, holding the line west of your position.*
+<Reply>: *The Combine forces appear to be in a general retreat since the blast.*
+
+The implication was terrifyingly clear. He was on his own.
+
+The train was exactly where the plan said it would be: a ghost in a mountain hangar, cold and silent. It was an armored beast, its hull mounted with the broken remains of artillery cannons, all useless without ammunition. There was no way to disguise it as a civilian transport.
+
+"If you can't hide it, make them afraid of it," Sean muttered to himself, a wild plan forming in his mind.
+
+He set his men to work. They scavenged empty missile casings from the arsenal and mounted them onto the train's launch rails, making them look active and armed. They found still-workable fire control radars and powered them up, creating the electronic signature of a fully operational weapons platform. For the final, terrifying touch, Sean ordered his men to retrieve drums of low-grade radioactive waste from a nearby defunct power plant and secure them to the rear car under heavy tarps, with prominent biohazard warnings. He would let the enemy's imagination do the rest.
+
+As the armored train rumbled towards Northgate, it began broadcasting a single, repeated message on all open channels: "This is a non-combat humanitarian transport escorting civilian refugees north. We will not engage unless fired upon."
+
+It was a masterful bluff. Several times, Sironan attack helicopters appeared on the horizon, swooping in to investigate. They would circle the train, their sensors undoubtedly screaming at the mess of radar signals and radiation signatures. Then, after a few tense minutes, they would peel away and retreat. Sean watched them go, a knot of tension in his gut slowly uncoiling. The tactic was working.
+
+But it didn't last.
+
+Several hours from Northgate, the world screeched to a halt. The train was stopped by a heavily armed Sironan ground force that had blocked the tracks. It was over. As soldiers surrounded them, Sean and his men were captured without a fight.
+
+As he was being bound, Sean locked eyes with the Sironan officer in charge. It was time for a new bluff, a final, desperate play.
+
+"Take me to your commander," Sean said, his voice cold and steady, injecting a note of arrogance he did not feel. "I have something he wants. Something he *really* can't afford to lose."
+
+<img src="../image/lisa.png" width="300">  
+
+**Sironan troops swept in last night. We left with nothing—no food, no coats. An Erden platoon held them off so we could escape, but... everyone is looking to me, and I don't know what to do.** 
+
+---
 Coming soon...
