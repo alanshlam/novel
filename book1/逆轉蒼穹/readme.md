@@ -576,8 +576,11 @@
 
 [<img src="../image/lisa.png" width="300">](https://youtube.com/shorts/o9POZ1jVfWY)
 
+
 ***「西羅納軍隊昨晚攻進來了。我們什麼都沒帶就逃了出來——沒有食物，沒有外套。一支厄爾登的排部隊掩護我們撤退，但是……所有人都指望著我，我不知道該怎麼辦。」***
 [示範影片](https://youtube.com/shorts/o9POZ1jVfWY)
+
+
 ---
 
 ## 第八章:心智的博弈 
@@ -712,9 +715,10 @@
 
 他當時並不知道，他的旅程遠未結束。他無法想像，許多年後，他會再次回到這個國家，不是作為一名外國士兵，而是作為一個註定要永遠改變厄爾登命運的人物。
 
-<img src="../image/agent.png" width="300">
+[<img src="../image/agent.png" width="300">](https://youtube.com/shorts/Bt9yUIfKv1w)
 
 ***「我從不想當叛徒，那些混蛋……他們逼我的。他們威脅要傷害我的家人……現在，我的家人沒了……全都在首都的空襲中沒了。我再也不會為那些混蛋工作了。我會告訴她一切。」***
+[示範影片](https://youtube.com/shorts/Bt9yUIfKv1w)
 
 --- 
 
