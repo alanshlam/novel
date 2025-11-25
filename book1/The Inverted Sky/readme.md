@@ -17,6 +17,43 @@ Sean is a product of the harsh realities of his world. Sent to a military academ
 
 He carries himself with a lean, watchful intensity, his eyes holding the weary look of someone who has seen too much. He views the nationalistic propaganda that fuels the war with a profound cynicism, recognizing it as a tool the authorities use to manipulate the populace and justify their actions. Sean is a master at playing the game; he understands the rules of the powerful and knows how to bend them to survive. However, this cynicism is at constant war with a stubborn, unyielding conscience. He despises the system he is a part of and refuses to become one of the predators he sees in positions of power. His graduation to Second Lieutenant is not a triumph, but a deeper entanglement in a life he never chose, forcing him to constantly seek a path where he can be effective without sacrificing his soul.
 
+<details>
+<summary> Secondary Characters</summary>
+
+**Undersecretary Thorne (Meridian Federation)**  
+<img src=../image/Thorne.png width="100">  
+A cold, pragmatic, and powerful bureaucrat in the Federation's Ministry of State. Thorne is a master of political maneuvering who sees people and nations as pieces on a chessboard. He is Ruby's superior and represents the cynical, amoral realpolitik of the superpower she serves.
+
+
+**Captain Eric Voss  (Caspian Combine)**  
+<img src=../image/voss.png width="100">  
+An incompetent and cowardly officer in the Combine army, Voss is a product of a system that rewards loyalty over ability. He is Sean's direct commander in Erden and embodies the bureaucratic rot and moral corruption that Sean despises, prioritizing personal gain and self-preservation above all else.
+
+
+**President-Marshal Lysander Corvus (Sirona)**  
+<img src=../image/Corvus.png width="100">  
+The ruthless dictator of Sirona. For fifteen years, Corvus has clung to power through fear and the backing of his patrons in the Meridian Federation. He is paranoid, ambitious, and willing to start a war and risk nuclear catastrophe to save his own regime.
+
+**President Kaelen Rask (Erden)**  
+<img src=../image/Rask.png width="100">  
+The democratically elected President of the Republic of Erden. A strong, resilient, and principled leader, she is caught in an impossible situation: fending off an invasio
+
+**Lisa Aris (Erden)**  
+<img src=../image/lisa.png width="100">   
+The acting mayor of the town of Oakhaven. After her father was called to defend the capital, Lisa was thrust into a leadership role she never wanted. She is young, overwhelmed, but fiercely protective of her people, representing the civilian struggle and resilience of Erden.
+
+**The Agent (Sirona)**  
+<img src=../image/agent.png width="100">   
+A high-ranking Sironan official chosen to be the puppet leader of Corvus's "Western Erden." Wracked with guilt and fear, he attempts to defect to Erden to expose the conspiracy, inadvertently becoming the "package" Sean must protect. He represents the moral cowardice that enables tyrannical regimes.
+
+**General Valerius (Sirona)**  
+<img src=../image/Valerius.png width="100">  
+A high-ranking and ambitious Sironan general, Valerius is a key player in the conspiracy between Corvus and the rogue Combine faction. He is arrogant, short-tempered, and dangerously overconfident in his own importance. While he is a competent field commander, his ego and explosive anger are significant weaknesses. He views the war and the conspiracy primarily as a means to his own personal advancement and enrichment, making him susceptible to manipulation by anyone who can successfully play on his pride and greed. He is the Sironan officer who captures Sean and is ultimately outwitted by him.
+
+
+---
+</details>
+
 --- 
 ## Chapter 1: Acquaintance
 
