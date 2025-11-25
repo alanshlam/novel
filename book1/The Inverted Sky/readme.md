@@ -200,6 +200,18 @@ Days later, Sean tried the dark web link again. It was dead. The forum account w
 ---
 ## Chapter 5: Looting
 
+<details>
+<summary>Introduction of The Republic of Sirona</summary>
+An authoritarian state masquerading as a republic, Sirona is a client nation of the powerful Meridian Federation. For fifteen years, it has been under the iron-fisted rule of President-Marshal Lysander Corvus, who relies on Federation military support to suppress dissent and maintain his power. With a faltering economy and growing internal unrest, Corvus's regime initiated the war with its neighbor, Erden, under the false pretext of "liberating" the Sironan-speaking populace. Sirona is a nation built on a foundation of aggressive nationalism, political paranoia, and a desperate need to project strength to hide its internal decay.
+</details>
+
+<details>
+<summary>Introduction of The Republic of Erden</summary>
+A resilient and sovereign democracy, the Republic of Erden is a nation defined by its fierce independence and the determination of its people. Led by the popularly elected President Kaelen Rask, Erden finds itself caught between two hostile superpowers. Threatened by the aggression of its neighbor, Sirona, Erden has entered into a fragile, mistrustful alliance with the Caspian Combine for protection. While the Combine's support is limited and comes with its own agenda, the people of Erden are united in their fight for their land, their freedom, and their right to self-governance, embodying a spirit of endurance against overwhelming odds.
+</details>
+
+
+
 President-Marshal Corvus promised his people a swift and glorious victory. The invasion of Erden was meant to last a month. It had now bled for more than a year.
 
 It began as a desperate gambit by President-Marshal Lysander Corvus of Sirona. For fifteen years, his dictatorship had been propped up by the military might of the Meridian Federation, a force he used to crush any internal dissent. But with the voices of uprising growing louder in his own streets, Corvus needed a distraction—a glorious, unifying war. He turned his eyes to his neighbor, the Republic of Erden, and launched an invasion under the false pretext of liberating the Sironan-speaking people who lived there.
