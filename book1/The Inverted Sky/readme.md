@@ -201,12 +201,12 @@ Days later, Sean tried the dark web link again. It was dead. The forum account w
 ## Chapter 5: Looting
 
 <details>
-<summary>Introduction of The Republic of Sirona</summary>
+<summary>Introduction of The Republic of Sirona <img src=../image/Sirona.png width="40"></summary>
 An authoritarian state masquerading as a republic, Sirona is a client nation of the powerful Meridian Federation. For fifteen years, it has been under the iron-fisted rule of President-Marshal Lysander Corvus, who relies on Federation military support to suppress dissent and maintain his power. With a faltering economy and growing internal unrest, Corvus's regime initiated the war with its neighbor, Erden, under the false pretext of "liberating" the Sironan-speaking populace. Sirona is a nation built on a foundation of aggressive nationalism, political paranoia, and a desperate need to project strength to hide its internal decay.
 </details>
 
 <details>
-<summary>Introduction of The Republic of Erden</summary>
+<summary>Introduction of The Republic of Erden <img src=../image/Erden.png width="40"></summary>
 A resilient and sovereign democracy, the Republic of Erden is a nation defined by its fierce independence and the determination of its people. Led by the popularly elected President Kaelen Rask, Erden finds itself caught between two hostile superpowers. Threatened by the aggression of its neighbor, Sirona, Erden has entered into a fragile, mistrustful alliance with the Caspian Combine for protection. While the Combine's support is limited and comes with its own agenda, the people of Erden are united in their fight for their land, their freedom, and their right to self-governance, embodying a spirit of endurance against overwhelming odds.
 </details>
 
