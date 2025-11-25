@@ -501,15 +501,15 @@ The channel erupted. Messages of relief and thanks flooded the screen. Officers,
 
 Unanimously, they told him to lead the civilians to Northgate. After fifteen minutes of frantic planning on their end, a route materialized. He was to lead the survivors to a nearby abandoned arsenal, then through another secret railway line to a hidden mountain depot. Inside, an armored military train stood ready. The route was a desperate, winding path through territory they *hoped* was not yet controlled by Sirona.
 
-Sean typed his final, crucial question.
+Sean typed his final, crucial question.  
 [General Rask]: *What are my support options for this escort? Air, ground, anything?*
 
-The replies came back, one after another, each one a nail in the coffin of his hopes.
-[Reply]: *Negative, sir. All air assets are gone.*
-[Reply]: *Ground troops are pinned down, holding the line west of your position.*
-[Reply]: *The Combine forces appear to be in a general retreat since the blast.*
+The replies came back, one after another, each one a nail in the coffin of his hopes.  
+[Reply]: *Negative, sir. All air assets are gone.*  
+[Reply]: *Ground troops are pinned down, holding the line west of your position.*  
+[Reply]: *The Combine forces appear to be in a general retreat since the blast.*  
 
-The implication was terrifyingly clear. He was on his own.
+The implication was terrifyingly clear. He was on his own. 
 
 The train was exactly where the plan said it would be: a ghost in a mountain hangar, cold and silent. It was an armored beast, its hull mounted with the broken remains of artillery cannons, all useless without ammunition. There was no way to disguise it as a civilian transport.
 
