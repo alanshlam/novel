@@ -474,7 +474,7 @@ Sitting in her office, the silence felt deafening. The world celebrated a victor
 [<img src="../image/ch6.png" width="300">](https://youtube.com/shorts/FC64Xp_GXEg)
 
 ***"We need to act fast. There's no telling what this lunatic can do next. I'll provide more if I can. Take care, Ruby. Sean Walker, out."*** 
-[https://youtube.com/shorts/FC64Xp_GXEg)
+[sample video](https://youtube.com/shorts/FC64Xp_GXEg)
 
 ---
 ## Chapter 7: Abandoned
@@ -557,9 +557,10 @@ As he was being bound, Sean locked eyes with the Sironan officer in charge. It w
 
 "Take me to your commander," Sean said, his voice cold and steady, injecting a note of arrogance he did not feel. "I have something he wants. Something he *really* can't afford to lose."
 
-<img src="../image/lisa.png" width="300">  
+[<img src="../image/lisa.png" width="300">](https://youtube.com/shorts/o9POZ1jVfWY)
 
 **Sironan troops swept in last night. We left with nothing—no food, no coats. An Erden platoon held them off so we could escape, but... everyone is looking to me, and I don't know what to do.** 
+[sample video](https://youtube.com/shorts/o9POZ1jVfWY)
 
 ---
 
@@ -698,9 +699,10 @@ A few days later, Sean stood by the shore of a quiet lake, trying to digest the 
 He did not know then that his journey was far from over. He could not imagine that, many years later, he would return to this nation not as a foreign soldier, but as a figure destined to change the fate of Erden forever.
 
 
-<img src="../image/agent.png" width="300">  
+[<img src="../image/agent.png" width="300">](https://youtube.com/shorts/Bt9yUIfKv1w)  
 
 ***"I never wanted to be a betrayer. Those bastards... they forced me. They threatened my family... and now my family is gone... all gone in the air raid in the capital. I won't work for those bastards anymore. I will tell her everything."***
+[sample video](https://youtube.com/shorts/Bt9yUIfKv1w)
 
 ---
 ## Chapter 9: Suicide Mission
