@@ -574,7 +574,7 @@
 
 「帶我去見你們的指揮官，」尚恩說，聲音冰冷而穩定，注入了一絲他自己都感觉不到的傲慢。「我有他想要的東西。一件他*真的*輸不起的東西。」
 
-<img src="../image/lisa.png" width="300">([示範影片](https://youtube.com/shorts/o9POZ1jVfWY)
+<img src="../image/lisa.png" width="300">(https://youtube.com/shorts/o9POZ1jVfWY)
 
 ***「西羅納軍隊昨晚攻進來了。我們什麼都沒帶就逃了出來——沒有食物，沒有外套。一支厄爾登的排部隊掩護我們撤退，但是……所有人都指望著我，我不知道該怎麼辦。」***
 [示範影片](https://youtube.com/shorts/o9POZ1jVfWY)
