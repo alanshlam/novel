@@ -698,11 +698,13 @@ A few days later, Sean stood by the shore of a quiet lake, trying to digest the 
 
 He did not know then that his journey was far from over. He could not imagine that, many years later, he would return to this nation not as a foreign soldier, but as a figure destined to change the fate of Erden forever.
 
-[<img src="../image/Rash.png" width="300">](https://youtube.com/shorts/yqEv6q5BTUM)  
+[<img src="../image/Rask.png" width="300">](https://youtube.com/shorts/yqEv6q5BTUM)  
 
 ***"What you have done for my people... for Erden... is a debt we can never repay," she said, her voice heavy with emotion. "You are a man of extraordinary bravery. But are you safe? We can offer you asylum here."*** 
 
 ***"Thank you for the offer, Madam President, but I think I can manage my own return. I trust you will keep the details of my involvement a secret." He paused, the shame of his uniform suddenly feeling heavy. "And I am sorry for what my country's forces did in your capital."*** 
+[sample video](https://youtube.com/shorts/yqEv6q5BTUM)
+
 
 [<img src="../image/agent.png" width="300">](https://youtube.com/shorts/Bt9yUIfKv1w)  
 
