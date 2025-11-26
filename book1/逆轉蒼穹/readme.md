@@ -5,7 +5,7 @@
 
 ### 露比·萬斯 (Ruby Vance) - 子午線聯邦 (The Meridian Federation  <img src=../image/mf_flag.png width="40">)
 
-<img src=../image/ruby.png width="100">  **原型：** 冷漠的世界中的理想主義者
+<img src=../image/ruby.png width="100">  **原型：** 冷漠世界中的理想主義者
 
 露比出生於子午線聯邦一個顯赫的外交世家，從小便被培養以應對錯綜複雜的國際政治。表面上，她是一位完美的使節：受過無可挑剔的
 教育，聰明絕頂，並擁有堅韌的分析頭腦，能夠剖析任何政治問題。她的外表——金色短髮和剪裁俐落的西裝——散發出一種不容置喙的幹練
