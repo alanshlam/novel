@@ -584,7 +584,7 @@ The general stood up abruptly, wiping his mouth with a napkin. The pretense of l
 
 *Stay calm. Don't offer information, make him question himself. You are important. You are in control.* Sean’s internal monologue was a lifeline in a sea of fear. He allowed a contemptuous smirk to touch his lips.
 
-"I'm with the Agency," Sean said, the lie tasting surprisingly natural. "Disguised as a low-ranking officer to oversee this operation. My reports go directly to the highest levels of the Combine. I know more than you think, General, but I am not authorized to disclose operational details to you. Now, if you'll let my train proceed as planned, I will ensure you get what was promised."
+"I'm with the Agency," Sean said, the lie tasting surprisingly natural. "Disguised as a low-ranking officer to oversee this operation. My reports go directly to the highest levels of the Agency. I know more than you think, General, but I am not authorized to disclose operational details to you. Now, if you'll let my train proceed as planned, I will ensure you get what was promised."
 
 The general’s face contorted in a flash of pure rage that sent a jolt of genuine terror through Sean. He slammed his fist onto a large tactical map hanging on the wall, the impact echoing through the room. He whirled on Sean, his eyes blazing.
 
