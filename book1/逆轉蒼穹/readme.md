@@ -714,10 +714,10 @@
 
 [<img src="../image/ch8-03.png" width="300">](https://youtube.com/shorts/C8a3L3Cbn8o)
 
+***但許久以來，他第一次感到一種平靜.*** [示範影片](https://youtube.com/shorts/C8a3L3Cbn8o)  
 
-***但許久以來，他第一次感到一種平靜.*** [示範影片](https://youtube.com/shorts/C8a3L3Cbn8o)
+
 [<img src="../image/Rask.png" width="300">](https://youtube.com/shorts/yqEv6q5BTUM)   
-
 
 ***「你為我的人民……為厄爾登所做的一切……是我們永遠無法償還的債務，」她說，聲音充滿了情感。「你是一位非凡勇敢的人。但你安全嗎？我們可以在這裡提供你政治庇護。你會成為英雄。」
 尚恩搖了搖頭。「謝謝您的提議，總統女士，但我想我能設法安全返回。我相信您會對我參與的細節保密。」他停頓了一下，軍裝帶來的恥辱感突然變得沉重。「而且，我很抱歉我的國家部隊在你們的首都所做的一切。」***
