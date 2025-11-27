@@ -699,9 +699,9 @@ A few days later, Sean stood by the shore of a quiet lake, trying to digest the 
 He did not know then that his journey was far from over. He could not imagine that, many years later, he would return to this nation not as a foreign soldier, but as a figure destined to change the fate of Erden forever.
 
 
-[<img src="../image/ch8-03.png" width="300">](https://youtube.com/shorts/C8a3L3Cbn8o)
+[<img src="../image/ch8-03.png" width="300">](https://youtube.com/shorts/AsyV4vaHJQk)
 
-***for the first time in a long time, he felt a sense of peace.*** [sample video](https://youtube.com/shorts/C8a3L3Cbn8o)
+***for the first time in a long time, he felt a sense of peace.*** [sample video](https://youtube.com/shorts/AsyV4vaHJQk)
 
 [<img src="../image/Rask.png" width="300">](https://youtube.com/shorts/yqEv6q5BTUM)  
 
