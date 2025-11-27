@@ -698,6 +698,11 @@ A few days later, Sean stood by the shore of a quiet lake, trying to digest the 
 
 He did not know then that his journey was far from over. He could not imagine that, many years later, he would return to this nation not as a foreign soldier, but as a figure destined to change the fate of Erden forever.
 
+
+<img src="../image/ch8-02.png" width="800">
+
+***for the first time in a long time, he felt a sense of peace.***
+
 [<img src="../image/Rask.png" width="300">](https://youtube.com/shorts/yqEv6q5BTUM)  
 
 ***"What you have done for my people... for Erden... is a debt we can never repay," she said, her voice heavy with emotion. "You are a man of extraordinary bravery. But are you safe? We can offer you asylum here."*** 
