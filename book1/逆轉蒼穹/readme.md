@@ -712,9 +712,9 @@
 他當時並不知道，他的旅程遠未結束。他無法想像，許多年後，他會再次回到這個國家，不是作為一名外國士兵，而是作為一個註定要永遠改變厄爾登命運的人物。
 
 
-[<img src="../image/ch8-03.png" width="300">](https://youtube.com/shorts/C8a3L3Cbn8o)
+[<img src="../image/ch8-03.png" width="300">](https://youtube.com/shorts/AsyV4vaHJQk)
 
-***但許久以來，他第一次感到一種平靜.*** [示範影片](https://youtube.com/shorts/C8a3L3Cbn8o)  
+***但許久以來，他第一次感到一種平靜.*** [示範影片](https://youtube.com/shorts/AsyV4vaHJQk)  
 
 
 [<img src="../image/Rask.png" width="300">](https://youtube.com/shorts/yqEv6q5BTUM)   
