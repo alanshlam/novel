@@ -105,6 +105,7 @@ She turned and walked away, melting back into the shadows from which she had eme
 
 In the silence that followed, Sean let out a breath he didn't realize he'd been holding. He didn't know her name, but he knew he owed her his life, and the lives of his students. In the depths of his heart, a silent "thank you" was offered to the enemy who had shown him mercy. With a newfound resolve, he gathered his students, and together, they navigated the treacherous path back to their own lines, the memory of the mysterious diplomat burned into his mind.
 
+#### Scene from this Chapter:  
 
 [<img src="../image/chapter1.jpg" width="300">](https://youtube.com/shorts/jxhw0d7C8PU)
 
@@ -144,6 +145,8 @@ For a breathtaking moment, as their planes flew in perfect, terrifying unison, t
 
 Finally, they left the "Dead Man's Corridor". The last threat icon vanished from his screen. He peeled away, his jet rolling upright as he broke the formation. Ruby's transport was safe, a clean vector to the border. As her plane sped away, she pressed a hand to the cold glass of the window, her heart aching with a silent thank you, and a question that would haunt her: in a world without war, who could they have been to each other?
 
+#### Scene from this Chapter:     
+
 [<img src="../image/chapter2.png" width="300">](https://youtube.com/shorts/jEdfX7f5Lkw)
 
 ***Do not fire!" she commanded her crew. "Let him approach."***[sample video](https://youtube.com/shorts/jEdfX7f5Lkw)
@@ -178,6 +181,10 @@ Late one night, alone in the silent expanse of her office, she saw her reflectio
 "Will I become a monster," she whispered to her reflection, "to help another monster harm the innocent?"
 
 She blinked, and a single, hot tear broke free, tracing a path down her cheek. It was not a tear of sadness, but of terrifying clarity. The system wasn't asking for her expertise. It was demanding her soul.
+
+
+#### Scene from this Chapter:    
+
 
 [<img src="../image/chapter3.png" width="300">](https://youtube.com/shorts/XLicumz4jJ8)
 
@@ -256,6 +263,8 @@ By evening, public opinion had turned into a landslide of condemnation. Under im
 Days later, Sean tried the dark web link again. It was dead. The forum account was deleted. He scanned the Federation news, but couldn't find any mention of Ruby. When he hacked into the Ministry's public directory, her name was still there, a small but significant relief. Follow-up reports on The Clarion detailed the aftermath: the leak had exposed the Scourge's key positions, forcing them into a full retreat and allowing for the rescue of hundreds of captives. Ruby's brave act had saved thousands of lives.
 
 *Ruby Vance.* The name was now etched in his mind. Her bravery and unwavering determination to uphold her conscience in the face of treason deeply impressed his heart. He looked out at the sky, wondering what the world could be if more people in power were like her—willing to risk everything for what was right.
+
+#### Scene from this Chapter:    
 
 [<img src="../image/ch4.png" width="300">](https://youtube.com/shorts/7slHHGAvn-k)
 
@@ -390,6 +399,8 @@ The horrifying realization hit him like a physical blow. This wasn't just Voss's
 One of the young privates with him, his face pale with terror, looked at Sean. "Sir? What do we do now?"
 
 
+#### Scene from this Chapter:    
+
 [<img src="../image/ch5.png" width="300">](https://youtube.com/shorts/-5g2S5slVb4)
 
 ***"Is this our mission?" Sean finally roared, his patience shattering. "To loot the people we were sent to save?"
@@ -470,6 +481,8 @@ Then Thorne’s gaze turned fierce. "Don't think you can get away with this," he
 A day later, the world pulled back from the brink. The bombers and submarines returned to their ports. The troops at the border stood down.
 
 Sitting in her office, the silence felt deafening. The world celebrated a victory of diplomacy, but Ruby knew it was a victory born from a desperate act of trust between two enemies. *Sean Walker.* The name was now a constant presence in her mind. He had saved billions, but her first thought, the one that returned to her in the quiet moments, was the same one she had typed into the chat window: *Are you safe?* She was in awe of what he had done, but she was terrified of what it might have cost him.
+
+#### Scene from this Chapter:   
 
 [<img src="../image/ch6.png" width="300">](https://youtube.com/shorts/FC64Xp_GXEg)
 
@@ -556,6 +569,9 @@ Several hours from Northgate, the world screeched to a halt. The train was stopp
 As he was being bound, Sean locked eyes with the Sironan officer in charge. It was time for a new bluff, a final, desperate play.
 
 "Take me to your commander," Sean said, his voice cold and steady, injecting a note of arrogance he did not feel. "I have something he wants. Something he *really* can't afford to lose."
+
+
+#### Scene from this Chapter:  
 
 [<img src="../image/lisa.png" width="300">](https://youtube.com/shorts/o9POZ1jVfWY)
 
@@ -698,6 +714,8 @@ A few days later, Sean stood by the shore of a quiet lake, trying to digest the 
 
 He did not know then that his journey was far from over. He could not imagine that, many years later, he would return to this nation not as a foreign soldier, but as a figure destined to change the fate of Erden forever.
 
+
+#### Scenes from this Chapter:  
 
 [<img src="../image/ch8-03.png" width="300">](https://youtube.com/shorts/AsyV4vaHJQk)
 
