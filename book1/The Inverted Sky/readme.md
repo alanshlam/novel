@@ -409,7 +409,7 @@ Voss finally looked up, his face a sneer of contempt. "Shut up, Lieutenant. Or y
 
 
 ---
-## Chaper 6: Mist of nuclear warfare
+## Chapter 6: Mist of nuclear warfare
 
 In the seventy-two hours after the flash over Aethelgard, the world held its breath, waiting for the killing to start.
 
