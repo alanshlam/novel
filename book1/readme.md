@@ -23,6 +23,10 @@ Abandoned by his own company after a brutal battle, Sean Walker must lead a hand
 ## Introduction for [Chapter 8:A Game of Minds](./The%20Inverted%20Sky#chapter-8-a-game-of-minds)
 Captured by the enemy, Sean is forced into a high-stakes psychological battle with a Sironan general. With the lives of 1,500 refugees on the line, he must bluff his way through a dangerous web of conspiracy, using his wits to turn his captor's secrets against them and orchestrate a daring escape.
 
+## Introduction for Chapter 9: Suicide Mission
+Upon his return to the Caspian Combine, Sean must first navigate a dangerous debriefing, crafting a masterful report to protect his men and bury the conspiracy. But his "reward" is a new assignment: piloting a high-risk rescue mission for "Task Force Revenant"—a disposable team of honorable soldiers the Combine wants to disappear. When the mission is revealed to be a deadly trap, Sean is once again forced to fight for his life, alone and behind enemy lines.
+
+
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
 ## [第一章:相遇](./逆轉蒼穹#第一章相遇) 引言 (Introduction for Chapter 1)
@@ -47,8 +51,12 @@ Captured by the enemy, Sean is forced into a high-stakes psychological battle wi
 在一場殘酷的戰鬥後被自己的連隊遺棄，尚恩·沃克必須帶領少數倖存的士兵和一大群平民難民，穿越敵方領土。他唯一的指引，是來自一位殞落將軍的數據板，它指向一個神秘的「包裹」——那是在劫難逃的厄爾登共和國的最後希望。
 
 ## [第八章:心智的博弈](./逆轉蒼穹#第八章心智的博弈) 引言 (Introduction for Chapter 8)
-被敵軍俘虜後，尚恩被迫與一名西羅納將軍展開一場高風險的心理戰。背負著1500名難民的性命，他必須憑藉自己的智慧，在一個危險的陰謀網絡中虛張聲勢，利用
-他俘虜者的秘密來反制他們，並策劃一場大膽的逃脫。
+被敵軍俘虜後，尚恩被迫與一名西羅納將軍展開一場高風險的心理戰。背負著1500名難民的性命，他必須憑藉自己的智慧，在一個危險的陰謀網絡中虛張聲勢，利用他俘虜者的秘密來反制他們，並策劃一場大膽的逃脫。
+
+## 第九章:自殺任務 引言 (Introduction for Chapter 9)
+回到裏海共同體後，尚恩必須先應付一場危險的述職報告，他精心炮製了一份高明的報告以保護他的手下並埋葬陰謀。但他的「獎賞」卻是一項新任務：為「亡魂特遣隊」——一支由共同體想要讓其「被消失」的正直士兵所組成的可拋棄式隊伍——擔任高風險救援任務的飛行員。當任務揭示為一個致命陷阱時，尚恩再次被迫孤身一人、身陷敵後，為自己的生存而戰。
+
+
 
 
 
