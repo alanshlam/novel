@@ -66,3 +66,40 @@ Sean didn't reply directly. He just looked at the men and women around him—the
 
 A sense of dread still hung over the mission, a feeling that they were being sent to their deaths. But for the first time since his return, a different feeling surfaced alongside it: pride. He was finally with soldiers he could respect.
 
+---
+
+
+The briefing for Task Force Revenant took place at 38,000 meters, inside the belly of a stealth transport screaming over Federation territory. They were flying in a pair of old, heavily modified birds, running dark.
+
+*Revenant Zero-One*, piloted by Leo, carried the primary assault element: Major Rostova and seven operators, plus their gear.
+
+*Revenant Zero-Two* was Sean’s bird. He carried the four-man reserve and recon element. His mission was simple: drop his team ninety seconds after Zero-One, then climb to high orbit and wait. He was the eye-in-the-sky and the only ride home.
+
+Both aircraft flew nap-of-the-earth, no lights, hugging the terrain with their guidance radars, electronic spoofers churning out a stream of ghost signals. Inside, the cabin was a sea of red combat lights as the team performed their final suit checks.
+
+While the operators armed their weapons, Sean idly glanced at the cockpit repeater displaying the final, pre-programmed drop coordinates. A knot of ice formed in his stomach. The LZ wasn't the one they had briefed. The new coordinates were 4.8 kilometers east of the original site—deep inside the known patrol box of a Federation rapid-reaction brigade.
+
+*Did Intel move the drop zone, or was this a setup?*
+
+At 01:14 local time, Leo flared *Zero-One* over the new LZ, a small, dark clearing in the woods. The assault team fast-roped down. The moment the last man hit the ground, all hell broke loose.
+
+The night exploded. Infrared laser designators snapped on from all directions, painting *Zero-One* in a spiderweb of crimson light. An instant later, the clearing was stitched with a storm of non-lethal fire. Federation shock troops rose from the darkness, firing stun nets and hypersonic tasers that crackled through the air. The drone-turrets, instead of cannons, launched grappling hooks that slammed into *Zero-One*'s fuselage, anchoring it to the ground.
+
+It was a perfectly executed capture ambush.
+
+Twenty kilometers back, alarms screamed through Sean’s cockpit. He saw Leo fighting the controls as shock troops swarmed the disabled transport. He banked hard, opening up with his own cannons—not to kill, but to suppress, to give them a chance.
+
+His fire forced the Federation troops to take cover, momentarily loosening their grip. He saw *Zero-One*, trailing smoke and sparks, lurch back into the air. But it was a fatal, desperate climb. A missile, likely an EMP rocket, streaked up from the darkness and struck the cockpit. The transport shuddered, its engines dying, and began to autorotate towards the ground. On his screen, the nine life signs of the assault team were still active, but they were going down. Captured.
+
+Another missile alert screamed. This one was for him.
+
+He felt the impact a second later—a violent, tearing shudder as an EMP missile ripped through his electronics. The transport's systems died, the cockpit plunging into darkness, the only sound the shriek of the wind and the automated klaxon screaming, "MANUAL BAILOUT! MANUAL BAILOUT!"
+
+"Out! Rear ramp! Go, go, go!" Sean roared to his team over the now-failing intercom. He fought the dead controls, trying to keep the dying bird gliding for just a few more seconds. He felt the shift in balance as his four operators ran for the ramp and jumped into the darkness. Then, with the ground rushing up to meet him, he unstrapped himself and sprinted for the open ramp himself.
+
+He threw himself into the night, pulling his own chute cord just as the wreckage of *Zero-Two* slammed into a hillside a kilometer away, the explosion lighting up the sky.
+
+He was alive. He was alone.
+
+He scrambled for cover under a broken stone bridge as the searchlights of Federation helicopters began to sweep across the ground, hunting for survivors. Once again, he was behind enemy lines, with nothing but the uniform on his back and the ghosts of his fallen comrades. The suicide mission had lived up to its name.
+
