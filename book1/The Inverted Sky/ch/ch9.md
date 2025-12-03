@@ -108,6 +108,12 @@ He was alive. He was alone.
 
 He scrambled for cover under a broken stone bridge as the searchlights of Federation helicopters began to sweep across the ground, hunting for survivors. Once again, he was behind enemy lines, with nothing but the uniform on his back, the faces of his captured team burned into his mind. The suicide mission had lived up to its name.
 
+#### Scene from this Chapter:    
+
+<img src="../../image/ch9-2.png" width="300">
+
+***"Out! Rear ramp! Go, go, go!" Sean roared to his team over the now-failing intercom. He fought the dead controls, trying to keep the dying bird gliding for just a few more seconds. He felt the shift in balance as his four operators ran for the ramp and jumped into the darkness. Then, with the ground rushing up to meet him, he unstrapped himself and sprinted for the open ramp himself.***
+
 ---
 
 # Chapter 10: Infiltration
