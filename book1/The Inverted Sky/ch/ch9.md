@@ -72,7 +72,7 @@ A sense of dread still hung over the mission, a feeling that they were being sen
 
 ---
 
-## The Meat Grinder
+## Ambush
 
 The briefing for Task Force Revenant took place at 38,000 meters, inside the belly of a stealth transport screaming over Federation territory. They were flying in a pair of old, heavily modified birds, running dark.
 
