@@ -106,7 +106,7 @@ He threw himself into the night, pulling his own chute cord just as the wreckage
 
 He was alive. He was alone.
 
-He scrambled for cover under a broken stone bridge as the searchlights of Federation helicopters began to sweep across the ground, hunting for survivors. Once again, he was behind enemy lines, with nothing but the uniform on his back and the ghosts of his fallen comrades. The suicide mission had lived up to its name.
+He scrambled for cover under a broken stone bridge as the searchlights of Federation helicopters began to sweep across the ground, hunting for survivors. Once again, he was behind enemy lines, with nothing but the uniform on his back, the faces of his captured team burned into his mind. The suicide mission had lived up to its name.
 
 ---
 
