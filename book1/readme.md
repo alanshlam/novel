@@ -23,7 +23,7 @@ Abandoned by his own company after a brutal battle, Sean Walker must lead a hand
 ## Introduction for [Chapter 8:A Game of Minds](./The%20Inverted%20Sky#chapter-8-a-game-of-minds)
 Captured by the enemy, Sean is forced into a high-stakes psychological battle with a Sironan general. With the lives of 1,500 refugees on the line, he must bluff his way through a dangerous web of conspiracy, using his wits to turn his captor's secrets against them and orchestrate a daring escape.
 
-## Introduction for Chapter 9: Suicide Mission
+## Introduction for [Chapter 9: Suicide Mission](./The%20Inverted%20Sky/ch/ch9.md)
 Upon his return to the Caspian Combine, Sean must first navigate a dangerous debriefing, crafting a masterful report to protect his men and bury the conspiracy. But his "reward" is a new assignment: piloting a high-risk rescue mission for "Task Force Revenant"—a disposable team of honorable soldiers the Combine wants to disappear. When the mission is revealed to be a deadly trap, Sean is once again forced to fight for his life, alone and behind enemy lines.
 
 
