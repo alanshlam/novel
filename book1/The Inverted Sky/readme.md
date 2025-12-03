@@ -735,6 +735,6 @@ He did not know then that his journey was far from over. He could not imagine th
 [sample video](https://youtube.com/shorts/Bt9yUIfKv1w)
 
 ---
-## Chapter 9: Suicide Mission
+## [Click here to read Chapter 9: Suicide Mission](./ch/ch9.md)
 
-Coming soon...
+
