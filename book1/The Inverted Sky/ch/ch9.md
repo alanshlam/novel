@@ -1,6 +1,6 @@
 # Chapter 9: Suicide Mission 
 
-## The Debriefing
+##  A Masterful Lie
 
 Sean made it back to the Caspian Combine. His return was quiet, his debriefing clinical. He submitted his official report, a masterpiece of truth, omission, and carefully constructed lies designed to protect his men and bury the conspirators. He knew Voss had likely vanished the moment he'd secured his stolen pension from the vault, but the official record needed to be cleaner.
 
@@ -37,7 +37,8 @@ He knew the Combine’s leadership. They hated embarrassment more than they hate
 
 
 ---
-## The Suicide Squad
+## Task Force Revenant
+
 
 Sean’s “hero” status was short-lived. Though his report had closed the file on the Erden disaster, he was now a man who knew too much, a loose end. He was quietly reassigned. His new mission: pilot for a high-risk rescue team.
 
@@ -71,8 +72,7 @@ A sense of dread still hung over the mission, a feeling that they were being sen
 
 ---
 
-## The Ambush
-
+## The Meat Grinder
 
 The briefing for Task Force Revenant took place at 38,000 meters, inside the belly of a stealth transport screaming over Federation territory. They were flying in a pair of old, heavily modified birds, running dark.
 
@@ -109,4 +109,10 @@ He was alive. He was alone.
 He scrambled for cover under a broken stone bridge as the searchlights of Federation helicopters began to sweep across the ground, hunting for survivors. Once again, he was behind enemy lines, with nothing but the uniform on his back and the ghosts of his fallen comrades. The suicide mission had lived up to its name.
 
 ---
-[Previous Chapters](../)
+
+# Chapter 10: Infiltration
+
+Comming soon....
+
+--- 
+[Previous Chapters](../)    
