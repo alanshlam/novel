@@ -1,5 +1,7 @@
 # Chapter 9: Suicide Mission 
 
+## The Debriefing
+
 Sean made it back to the Caspian Combine. His return was quiet, his debriefing clinical. He submitted his official report, a masterpiece of truth, omission, and carefully constructed lies designed to protect his men and bury the conspirators. He knew Voss had likely vanished the moment he'd secured his stolen pension from the vault, but the official record needed to be cleaner.
 
 ---
@@ -35,6 +37,7 @@ He knew the Combine’s leadership. They hated embarrassment more than they hate
 
 
 ---
+## The Suicide Squad
 
 Sean’s “hero” status was short-lived. Though his report had closed the file on the Erden disaster, he was now a man who knew too much, a loose end. He was quietly reassigned. His new mission: pilot for a high-risk rescue team.
 
@@ -67,6 +70,8 @@ Sean didn't reply directly. He just looked at the men and women around him—the
 A sense of dread still hung over the mission, a feeling that they were being sent to their deaths. But for the first time since his return, a different feeling surfaced alongside it: pride. He was finally with soldiers he could respect.
 
 ---
+
+## The Ambush
 
 
 The briefing for Task Force Revenant took place at 38,000 meters, inside the belly of a stealth transport screaming over Federation territory. They were flying in a pair of old, heavily modified birds, running dark.
