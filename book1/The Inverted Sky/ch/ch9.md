@@ -110,7 +110,8 @@ He scrambled for cover under a broken stone bridge as the searchlights of Federa
 
 #### Scene from this Chapter:    
 
-<img src="../../image/ch9-2.png" width="300">
+[<img src="../../image/ch9-2.png" width="300">](https://youtube.com/shorts/I_8_dZYjHO0)
+[Sample Video](https://youtube.com/shorts/I_8_dZYjHO0)
 
 ***"Out! Rear ramp! Go, go, go!" Sean roared to his team over the now-failing intercom. He fought the dead controls, trying to keep the dying bird gliding for just a few more seconds. He felt the shift in balance as his four operators ran for the ramp and jumped into the darkness. Then, with the ground rushing up to meet him, he unstrapped himself and sprinted for the open ramp himself.***
 
