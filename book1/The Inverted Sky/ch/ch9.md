@@ -32,3 +32,37 @@ They all chose the same story. It was the truth from where they stood, and it ke
 Sean attached one final, private addendum to the file, for the eyes of the Inspector General only: *“It is my recommendation that Captain Voss be declared Missing in Action, Presumed Defected with State Assets. Officially closing the matter prevents a significant propaganda victory for the Meridian Federation and avoids deep institutional embarrassment.”*
 
 He knew the Combine’s leadership. They hated embarrassment more than they hated losing gold. And while they might not have believed every word of his story, it was clean, it was plausible, and it gave them an easy way out. The file was closed.
+
+
+---
+
+Sean’s “hero” status was short-lived. Though his report had closed the file on the Erden disaster, he was now a man who knew too much, a loose end. He was quietly reassigned. His new mission: pilot for a high-risk rescue team.
+
+The objective was to extract Combine embassy staff and a voluntary medical team who had been trapped in Aethelgard when it fell. They were now being held in a Federation prison facility following the collapse of Corvus's regime.
+
+The field commander, Major Ivan Rostova—a mountain of a man known as "The Ox"—finished the briefing. The mission was clear: infiltrate Federation territory and liberate the prisoners. It sounded simple. It was anything but.
+
+As the team prepared their gear, someone clapped Sean hard on the shoulder. "If it isn't the Hero of Erden," a sly voice said. "What's a man like you doing in a place like this?"
+
+Sean turned. He'd recognize the sly grin anywhere. It was Leo Vance, his former roommate from the academy, a man whose hobby had always been collecting secrets.
+
+"I'll tell you why," Leo continued, not waiting for an answer, his voice dropping. "Because this is a suicide mission."
+
+"Aren't they all?" Sean replied, his voice flat.
+
+Leo's grin faded. "No, this one's different. We're the fourth team they've sent. The last three were captured by the Federation in less than twenty-four hours. It's a meat grinder."
+
+Leo lowered his voice, his eyes darting around the hangar. "The deputy ops officer, a Colonel Volkov, demanded a full stop to review the intel. He argued the Federation had to be anticipating our moves. But High Command ignored him, doubled down, and just upgraded the gear and the CO." He nodded towards the Major. "That's Rostova. The Ox. Former battalion commander. He ended up here after he 'discovered' the neutron-bomb arsenal was producing fifty percent more warheads than officially declared. They tried to court-martial him for treason, but the case fell apart. His career, however, did not."
+
+Leo subtly pointed to a sharp-eyed woman cleaning her rifle. "That's his sister, Captain Eva Rostova. In Erden, she disobeyed a direct order to stand down and single-handedly wiped out Sirona’s entire Fourth Battalion when they tried to level a village full of civilians. She saved the village but ended her career."
+
+His gaze drifted over the rest of the team. "See the two intel guys, Fedor and Anya? They separately wrote memos proving Combine 'humanitarian' convoys were being used to smuggle arms to Sironan militias during the ceasefire. The memos were buried, and so were they. The logistics officer? Refused to sign off on 400 tons of aviation fuel that vanished into a general's private accounts. The squadron commander over there? Refused to falsify an after-action report to cover up friendly-fire casualties."
+
+Leo looked back at Sean, his meaning clear. "This isn't a rescue team, Sean. This is Task Force Revenant. We're the ghosts. Everyone here has, at one time or another, done the right thing and embarrassed the wrong general. We're the ones they want to disappear."
+
+Sean didn't reply directly. He just looked at the men and women around him—the stubborn major, the fierce captain, the honest intelligence officers. He thought of Captain Voss and the looters in the vault.
+
+"I know why you're here, Leo," Sean said, a grim smile touching his lips for the first time in weeks. "You know too much and you talk too much."
+
+A sense of dread still hung over the mission, a feeling that they were being sent to their deaths. But for the first time since his return, a different feeling surfaced alongside it: pride. He was finally with soldiers he could respect.
+
