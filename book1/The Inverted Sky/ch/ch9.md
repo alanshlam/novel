@@ -11,7 +11,7 @@ Sean made it back to the Caspian Combine. His return was quiet, his debriefing c
 **FROM:** 2nd Lt. Sean Walker, SO-GSD
 **SUBJECT:** After-Action Report: Loss of Command, Detachment 7, Aethelgard, Erden
 
-1.  **SITUATION:** Following the unsanctioned nuclear detonation in Aethelgard, Detachment 7 was ordered by Captain Eric Voss to enter the blast zone to secure the Parliament building. Captain Voss stated he had received credible intelligence that Erden forces had cached large quantities of Federation-supplied gold bullion in the Parliament vault as an emergency war reserve.
+1.  **SITUATION:** Following the nuclear detonation in Aethelgard, Detachment 7 was ordered by Captain Eric Voss to enter the blast zone to secure the Parliament building. Captain Voss stated he had received credible intelligence that Erden forces had cached large quantities of Federation-supplied gold bullion in the Parliament vault as an emergency war reserve.
 
 2.  **ACTION:** Captain Voss deemed this a time-critical intelligence and salvage opportunity. He ordered the entire platoon, including the undersigned, to breach the vault. Upon entry, Captain Voss personally supervised the loading of an unmarked civilian hover-truck with an estimated 1.2 metric tons of gold bullion and hard currency.
 
