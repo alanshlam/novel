@@ -725,6 +725,5 @@
 
 --- 
 
-## 第九章：自殺任務
+## [第九章：自殺任務](https://youtube.com/shorts/I_8_dZYjHO0)
 
-即將推出
