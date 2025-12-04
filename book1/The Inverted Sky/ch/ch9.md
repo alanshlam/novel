@@ -7,9 +7,9 @@ Sean made it back to the Caspian Combine. His return was quiet, his debriefing c
 ---
 **CLASSIFICATION: TOP SECRET – EYES ONLY**
 
-**TO:** Office of the Inspector General, Combine Expeditionary Forces
-**FROM:** 2nd Lt. Sean Walker
-**SUBJECT:** After-Action Report: Loss of Command, Detachment 7, Aethelgard, Erden
+**TO:** Office of the Inspector General, Combine Expeditionary Forces  
+**FROM:** 2nd Lt. Sean Walker  
+**SUBJECT:** After-Action Report: Loss of Command, Detachment 7, Aethelgard, Erden  
 
 1.  **SITUATION:** Following the nuclear detonation in Aethelgard, Detachment 7 was ordered by Captain Eric Voss to enter the blast zone to secure the Parliament building. Captain Voss stated he had received credible intelligence that Erden forces had cached large quantities of Federation-supplied gold bullion in the Parliament vault as an emergency war reserve.
 
