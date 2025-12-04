@@ -186,10 +186,10 @@ She blinked, and a single, hot tear broke free, tracing a path down her cheek. I
 #### Scene from this Chapter:    
 
 
-[<img src="../image/chapter3.png" width="300">](https://youtube.com/shorts/XLicumz4jJ8)
+[<img src="../image/chapter3.png" width="300">](https://youtube.com/shorts/2NIp15Jpvlc)
 
 ***"Will I become a monster," she whispered to her reflection, "to help another monster harm the innocent?"***
-[Sample video](https://youtube.com/shorts/XLicumz4jJ8)
+[Sample video](https://youtube.com/shorts/2NIp15Jpvlc)
 
 ---
 # Chapter 4: The Gambit
