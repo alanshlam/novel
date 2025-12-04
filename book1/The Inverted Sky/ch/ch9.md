@@ -8,7 +8,7 @@ Sean made it back to the Caspian Combine. His return was quiet, his debriefing c
 **CLASSIFICATION: TOP SECRET – EYES ONLY**
 
 **TO:** Office of the Inspector General, Combine Expeditionary Forces
-**FROM:** 2nd Lt. Sean Walker, SO-GSD
+**FROM:** 2nd Lt. Sean Walker
 **SUBJECT:** After-Action Report: Loss of Command, Detachment 7, Aethelgard, Erden
 
 1.  **SITUATION:** Following the nuclear detonation in Aethelgard, Detachment 7 was ordered by Captain Eric Voss to enter the blast zone to secure the Parliament building. Captain Voss stated he had received credible intelligence that Erden forces had cached large quantities of Federation-supplied gold bullion in the Parliament vault as an emergency war reserve.
@@ -44,7 +44,7 @@ Sean’s “hero” status was short-lived. Though his report had closed the fil
 
 The objective was to extract Combine embassy staff and a voluntary medical team who had been trapped in Aethelgard when it fell. They were now being held in a Federation prison facility following the collapse of Corvus's regime.
 
-The field commander, Major Ivan Rostova—a mountain of a man known as "The Ox"—finished the briefing. The mission was clear: infiltrate Federation territory and liberate the prisoners. It sounded simple. It was anything but.
+The field commander, Major Ivan Rostova —a mountain of a man known as "The Ox"—finished the briefing. The mission was clear: infiltrate Federation territory and liberate the prisoners. It sounded simple. It was anything but.
 
 As the team prepared their gear, someone clapped Sean hard on the shoulder. "If it isn't the Hero of Erden," a sly voice said. "What's a man like you doing in a place like this?"
 
