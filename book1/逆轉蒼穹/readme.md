@@ -186,10 +186,10 @@
 
 她眨了眨眼，一滴滾燙的淚水滑落，沿著她的臉頰劃下一道軌跡。那不是悲傷的淚水，而是一種可怕的清澈訊息。這個體制要的不是她的專業，而是她的靈魂。
 
-[<img src="../image/chapter3.png" width="300">](https://youtube.com/shorts/XLicumz4jJ8)
+[<img src="../image/chapter3.png" width="300">](https://youtube.com/shorts/2NIp15Jpvlc)
 
 ***「我會不會變成一個怪物，」她對著自己的倒影低語，「去幫助另一個怪物傷害無辜的人？」***
-[示範影片](https://youtube.com/shorts/XLicumz4jJ8)
+[示範影片](https://youtube.com/shorts/2NIp15Jpvlc)
 
 ---
 ## 第四章：險棋
