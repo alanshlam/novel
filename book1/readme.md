@@ -26,6 +26,10 @@ Captured by the enemy, Sean is forced into a high-stakes psychological battle wi
 ## Introduction for [Chapter 9: Suicide Mission](./The%20Inverted%20Sky/ch/ch9.md)
 Upon his return to the Caspian Combine, Sean must first navigate a dangerous debriefing, crafting a masterful report to protect his men and bury the conspiracy. But his "reward" is a new assignment: piloting a high-risk rescue mission for "Task Force Revenant"—a disposable team of honorable soldiers the Combine wants to disappear. When the mission is revealed to be a deadly trap, Sean is once again forced to fight for his life, alone and behind enemy lines.
 
+## Introduction for [Chapter 10: Infiltration])(./The%20Inverted%20Sky/ch/ch10.md)
+Alone and wounded behind enemy lines, Sean makes a vow: he will not abandon his captured team. This marks his final  break with the Combine's cynical system. He begins a new, personal war—a one-man infiltration operation to locate his comrades and prepare for a rescue that no one will authorize and no one will support.
+
+
 
 --- 
 # [逆轉蒼穹](./逆轉蒼穹) 翻譯自 [The Inverted Sky](./The%20Inverted%20Sky)
@@ -56,6 +60,8 @@ Upon his return to the Caspian Combine, Sean must first navigate a dangerous deb
 ## [第九章:自殺任務](./逆轉蒼穹/ch/ch9_TW.md) 引言 (Introduction for Chapter 9)
 回到裏海共同體後，尚恩必須先應付一場危險的述職報告，他精心炮製了一份高明的報告以保護他的手下並埋葬陰謀。但他的「獎賞」卻是一項新任務：為「亡魂特遣隊」——一支由共同體想要讓其「被消失」的正直士兵所組成的可拋棄式隊伍——擔任高風險救援任務的飛行員。當任務揭示為一個致命陷阱時，尚恩再次被迫孤身一人、身陷敵後，為自己的生存而戰。
 
+## [第十章:滲透](./逆轉蒼穹/ch/ch10_TW.md)引言 (Introduction for Chapter 10)
+孤身負傷、身陷敵後，尚恩立下誓言：他絕不拋棄被俘的團隊。這標誌著他與共同體那犬儒體制的徹底決裂。他開始了一場全新的個人戰爭——一場單槍匹馬的滲透行動，以找出他同袍的下落，並準備一場無人會授權、也無人會支援的救援。
 
 
 
