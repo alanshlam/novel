@@ -122,4 +122,4 @@ He scrambled for cover under a broken stone bridge as the searchlights of Federa
 Comming soon....
 
 --- 
-[Previous Chapters](../)    
+[Previous Chapters](../) | [Next Chapter](ch10.md)    
