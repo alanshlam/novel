@@ -26,7 +26,7 @@ Captured by the enemy, Sean is forced into a high-stakes psychological battle wi
 ## Introduction for [Chapter 9: Suicide Mission](./The%20Inverted%20Sky/ch/ch9.md)
 Upon his return to the Caspian Combine, Sean must first navigate a dangerous debriefing, crafting a masterful report to protect his men and bury the conspiracy. But his "reward" is a new assignment: piloting a high-risk rescue mission for "Task Force Revenant"—a disposable team of honorable soldiers the Combine wants to disappear. When the mission is revealed to be a deadly trap, Sean is once again forced to fight for his life, alone and behind enemy lines.
 
-## Introduction for [Chapter 10: Infiltration])(./The%20Inverted%20Sky/ch/ch10.md)
+## Introduction for [Chapter 10: Infiltration](./The%20Inverted%20Sky/ch/ch10.md)
 Alone and wounded behind enemy lines, Sean makes a vow: he will not abandon his captured team. This marks his final  break with the Combine's cynical system. He begins a new, personal war—a one-man infiltration operation to locate his comrades and prepare for a rescue that no one will authorize and no one will support.
 
 
